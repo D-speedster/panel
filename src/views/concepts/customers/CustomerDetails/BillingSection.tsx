@@ -248,10 +248,10 @@ const BillingSection = ({ data }: BillingSectionProps) => {
                     >
                         <div className="flex items-center gap-3">
                             {card.cardType === 'VISA' && (
-                                <img src="/img/others/img-8.png" alt="ویزا" />
+                                <img src="/admin-panel/img/others/img-8.png" alt="ویزا" />
                             )}
                             {card.cardType === 'MASTER' && (
-                                <img src="/img/others/img-9.png" alt="مسترکارت" />
+                                <img src="/admin-panel/img/others/img-9.png" alt="مسترکارت" />
                             )}
                             <div>
                                 <div className="flex items-center">

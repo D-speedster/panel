@@ -2,9 +2,9 @@ import ImageGallery from '@/components/shared/ImageGallery'
 import { useState } from 'react'
 
 const slides = [
-    { src: '/img/others/gallery/img-25.webp', title: 'Image 1' },
-    { src: '/img/others/gallery/img-26.webp', title: 'Image 2' },
-    { src: '/img/others/gallery/img-27.webp', title: 'Image 3' },
+    { src: '/admin-panel/img/others/gallery/img-25.webp', title: 'Image 1' },
+    { src: '/admin-panel/img/others/gallery/img-26.webp', title: 'Image 2' },
+    { src: '/admin-panel/img/others/gallery/img-27.webp', title: 'Image 3' },
 ]
 
 const Example = () => {

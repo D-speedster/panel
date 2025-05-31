@@ -8,24 +8,24 @@ export const fileListData = [
         author: {
             name: "یوجین استوارت",
             email: "joyce991@infotech.io",
-            img: "/img/avatars/thumb-5.jpg"
+            img: "/admin-panel/img/avatars/thumb-5.jpg"
         },
         activities: [
             {
                 userName: "ارل مایلز",
-                userImg: "/img/avatars/thumb-10.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-10.jpg",
                 actionType: "ویرایش",
                 timestamp: 1710163777
             },
             {
                 userName: "رابرتا هورتون",
-                userImg: "/img/avatars/thumb-7.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-7.jpg",
                 actionType: "ویرایش",
                 timestamp: 1710163777
             },
             {
                 userName: "یوجین استوارتن",
-                userImg: "/img/avatars/thumb-5.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-5.jpg",
                 actionType: "ایجاد",
                 timestamp: 1710163777
             }
@@ -33,17 +33,17 @@ export const fileListData = [
         permissions: [
             {
                 userName: "ارل مایلز",
-                userImg: "/img/avatars/thumb-10.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-10.jpg",
                 role: "ویرایشگر"
             },
             {
                 userName: "رابرتا هورتون",
-                userImg: "/img/avatars/thumb-7.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-7.jpg",
                 role: "ویرایشگر"
             },
             {
                 userName: "یوجین استوارتن",
-                userImg: "/img/avatars/thumb-5.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-5.jpg",
                 role: "مالک"
             }
         ],
@@ -59,24 +59,24 @@ export const fileListData = [
         author: {
             name: "جکی سوتو",
             email: "ella_robinson@infotech.io",
-            img: "/img/avatars/thumb-15.jpg"
+            img: "/admin-panel/img/avatars/thumb-15.jpg"
         },
         activities: [
             {
                 userName: "مریم هررا",
-                userImg: "/img/avatars/thumb-12.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-12.jpg",
                 actionType: "مشاهده",
                 timestamp: 1723045896
             },
             {
                 userName: "جسیکا ولز",
-                userImg: "/img/avatars/thumb-8.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-8.jpg",
                 actionType: "ویرایش",
                 timestamp: 1723045896
             },
             {
                 userName: "جکی سوتو",
-                userImg: "/img/avatars/thumb-15.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-15.jpg",
                 actionType: "دانلود",
                 timestamp: 1723045896
             }
@@ -84,17 +84,17 @@ export const fileListData = [
         permissions: [
             {
                 userName: "مریم هررا",
-                userImg: "/img/avatars/thumb-12.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-12.jpg",
                 role: "ویرایشگر"
             },
             {
                 userName: "جسیکا ولز",
-                userImg: "/img/avatars/thumb-8.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-8.jpg",
                 role: "ویرایشگر"
             },
             {
                 userName: "جکی سوتو",
-                userImg: "/img/avatars/thumb-15.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-15.jpg",
                 role: "مالک"
             }
         ],
@@ -105,23 +105,23 @@ export const fileListData = [
         id: "3",
         name: "Modern_Laputa.jpg",
         fileType: "jpeg",
-        srcUrl: "/img/others/img-3.jpg",
+        srcUrl: "/admin-panel/img/others/img-3.jpg",
         size: 139234.8,
         author: {
             name: "کامیلا سیمونز",
             email: "carolyn_h@gmail.com",
-            img: "/img/avatars/thumb-9.jpg"
+            img: "/admin-panel/img/avatars/thumb-9.jpg"
         },
         activities: [
             {
                 userName: "کاساندرا موری",
-                userImg: "/img/avatars/thumb-13.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-13.jpg",
                 actionType: "مشاهده",
                 timestamp: 1721487234
             },
             {
                 userName: "کامیلا سیمونز",
-                userImg: "/img/avatars/thumb-9.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-9.jpg",
                 actionType: "ایجاد",
                 timestamp: 1721487234
             }
@@ -129,12 +129,12 @@ export const fileListData = [
         permissions: [
             {
                 userName: "کاساندرا موری",
-                userImg: "/img/avatars/thumb-13.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-13.jpg",
                 role: "خواننده"
             },
             {
                 userName: "کامیلا سیمونز",
-                userImg: "/img/avatars/thumb-9.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-9.jpg",
                 role: "مالک"
             }
         ],
@@ -151,12 +151,12 @@ export const fileListData = [
         author: {
             name: "آرلین پیرس",
             email: "samanthaphil@infotech.io",
-            img: "/img/avatars/thumb-6.jpg"
+            img: "/admin-panel/img/avatars/thumb-6.jpg"
         },
         activities: [
             {
                 userName: "آرلین پیرس",
-                userImg: "/img/avatars/thumb-6.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-6.jpg",
                 actionType: "ایجاد",
                 timestamp: 1724509123
             }
@@ -164,7 +164,7 @@ export const fileListData = [
         permissions: [
             {
                 userName: "آرلین پیرس",
-                userImg: "/img/avatars/thumb-6.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-6.jpg",
                 role: "مالک"
             }
         ],
@@ -180,12 +180,12 @@ export const fileListData = [
         author: {
             name: "کامیلا سیمونز",
             email: "carolyn_h@gmail.com",
-            img: "/img/avatars/thumb-9.jpg"
+            img: "/admin-panel/img/avatars/thumb-9.jpg"
         },
         activities: [
             {
                 userName: "کامیلا سیمونز",
-                userImg: "/img/avatars/thumb-9.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-9.jpg",
                 actionType: "ایجاد",
                 timestamp: 1726023412
             }
@@ -193,7 +193,7 @@ export const fileListData = [
         permissions: [
             {
                 userName: "کامیلا سیمونز",
-                userImg: "/img/avatars/thumb-9.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-9.jpg",
                 role: "مالک"
             }
         ],
@@ -209,12 +209,12 @@ export const fileListData = [
         author: {
             name: "جسیکا ولز",
             email: "jessica@infotech.io",
-            img: "/img/avatars/thumb-8.jpg"
+            img: "/admin-panel/img/avatars/thumb-8.jpg"
         },
         activities: [
             {
                 userName: "جسیکا ولز",
-                userImg: "/img/avatars/thumb-8.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-8.jpg",
                 actionType: "ایجاد",
                 timestamp: 1740000000
             }
@@ -222,7 +222,7 @@ export const fileListData = [
         permissions: [
             {
                 userName: "جسیکا ولز",
-                userImg: "/img/avatars/thumb-8.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-8.jpg",
                 role: "مالک"
             }
         ],
@@ -238,18 +238,18 @@ export const fileListData = [
         author: {
             name: "استیو ساتن",
             email: "handsome-obrien@hotmail.com",
-            img: "/img/avatars/thumb-11.jpg"
+            img: "/admin-panel/img/avatars/thumb-11.jpg"
         },
         activities: [
             {
                 userName: "ارل مایلز",
-                userImg: "/img/avatars/thumb-10.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-10.jpg",
                 actionType: "ویرایش",
                 timestamp: 1730156789
             },
             {
                 userName: "استیو ساتن",
-                userImg: "/img/avatars/thumb-11.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-11.jpg",
                 actionType: "ایجاد",
                 timestamp: 1730156789
             }
@@ -257,12 +257,12 @@ export const fileListData = [
         permissions: [
             {
                 userName: "ارل مایلز",
-                userImg: "/img/avatars/thumb-10.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-10.jpg",
                 role: "ویرایشگر"
             },
             {
                 userName: "استیو ساتن",
-                userImg: "/img/avatars/thumb-11.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-11.jpg",
                 role: "مالک"
             }
         ],
@@ -274,23 +274,23 @@ export const fileListData = [
         id: "8",
         name: "Gradient_store.jpg",
         fileType: "jpeg",
-        srcUrl: "/img/others/img-5.jpg",
+        srcUrl: "/admin-panel/img/others/img-5.jpg",
         size: 157890.8,
         author: {
             name: "جکی سوتو",
             email: "ella_robinson@infotech.io",
-            img: "/img/avatars/thumb-15.jpg"
+            img: "/admin-panel/img/avatars/thumb-15.jpg"
         },
         activities: [
             {
                 userName: "جسیکا ولز",
-                userImg: "/img/avatars/thumb-8.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-8.jpg",
                 actionType: "مشاهده",
                 timestamp: 1732012345
             },
             {
                 userName: "جکی سوتو",
-                userImg: "/img/avatars/thumb-15.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-15.jpg",
                 actionType: "ایجاد",
                 timestamp: 1732012345
             }
@@ -298,12 +298,12 @@ export const fileListData = [
         permissions: [
             {
                 userName: "جسیکا ولز",
-                userImg: "/img/avatars/thumb-8.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-8.jpg",
                 role: "خواننده"
             },
             {
                 userName: "جکی سوتو",
-                userImg: "/img/avatars/thumb-15.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-15.jpg",
                 role: "مالک"
             }
         ],
@@ -314,29 +314,29 @@ export const fileListData = [
         id: "9",
         name: "Colorful_donunt.jpg",
         fileType: "jpeg",
-        srcUrl: "/img/others/img-6.jpg",
+        srcUrl: "/admin-panel/img/others/img-6.jpg",
         size: 216789.5,
         author: {
             name: "آنجلینا گوتلی",
             email: "eileen_h@hotmail.com",
-            img: "/img/avatars/thumb-1.jpg"
+            img: "/admin-panel/img/avatars/thumb-1.jpg"
         },
         activities: [
             {
                 userName: "شانون بیکر",
-                userImg: "/img/avatars/thumb-4.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-4.jpg",
                 actionType: "مشاهده",
                 timestamp: 1733890123
             },
             {
                 userName: "مکس الکساندر",
-                userImg: "/img/avatars/thumb-3.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-3.jpg",
                 actionType: "دانلود",
                 timestamp: 1733890123
             },
             {
                 userName: "آنجلینا گوتلی",
-                userImg: "/img/avatars/thumb-11.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-11.jpg",
                 actionType: "ایجاد",
                 timestamp: 1733890123
             }
@@ -344,17 +344,17 @@ export const fileListData = [
         permissions: [
             {
                 userName: "شانون بیکر",
-                userImg: "/img/avatars/thumb-4.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-4.jpg",
                 role: "خواننده"
             },
             {
                 userName: "مکس الکساندر",
-                userImg: "/img/avatars/thumb-3.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-3.jpg",
                 role: "خواننده"
             },
             {
                 userName: "آنجلینا گوتلی",
-                userImg: "/img/avatars/thumb-11.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-11.jpg",
                 role: "مالک"
             }
         ],
@@ -370,18 +370,18 @@ export const fileListData = [
         author: {
             name: "یوجین استوارت",
             email: "joyce991@infotech.io",
-            img: "/img/avatars/thumb-5.jpg"
+            img: "/admin-panel/img/avatars/thumb-5.jpg"
         },
         activities: [
             {
                 userName: "جرمی مینسک",
-                userImg: "/img/avatars/thumb-2.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-2.jpg",
                 actionType: "مشاهده",
                 timestamp: 1735789012
             },
             {
                 userName: "یوجین استوارت",
-                userImg: "/img/avatars/thumb-5.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-5.jpg",
                 actionType: "ایجاد",
                 timestamp: 1735789012
             }
@@ -389,12 +389,12 @@ export const fileListData = [
         permissions: [
             {
                 userName: "جرمی مینسک",
-                userImg: "/img/avatars/thumb-2.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-2.jpg",
                 role: "خواننده"
             },
             {
                 userName: "یوجین استوارت",
-                userImg: "/img/avatars/thumb-5.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-5.jpg",
                 role: "مالک"
             }
         ],
@@ -411,30 +411,30 @@ export const fileListData = [
         author: {
             name: "شانون بیکر",
             email: "cookie_lukie@hotmail.com",
-            img: "/img/avatars/thumb-4.jpg"
+            img: "/admin-panel/img/avatars/thumb-4.jpg"
         },
         activities: [
             {
                 userName: "آرل مایلز",
-                userImg: "/img/avatars/thumb-10.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-10.jpg",
                 actionType: "مشاهده",
                 timestamp: 1737652345
             },
             {
                 userName: "آنجلینا گوتلی",
-                userImg: "/img/avatars/thumb-1.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-1.jpg",
                 actionType: "ویرایش",
                 timestamp: 1737652345
             },
             {
                 userName: "کامیلا سیمونز",
-                userImg: "/img/avatars/thumb-9.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-9.jpg",
                 actionType: "دانلود",
                 timestamp: 1737652345
             },
             {
                 userName: "شانون بیکر",
-                userImg: "/img/avatars/thumb-4.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-4.jpg",
                 actionType: "ایجاد",
                 timestamp: 1737652345
             }
@@ -442,22 +442,22 @@ export const fileListData = [
         permissions: [
             {
                 userName: "آرل مایلز",
-                userImg: "/img/avatars/thumb-10.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-10.jpg",
                 role: "خواننده"
             },
             {
                 userName: "آنجلینا گوتلی",
-                userImg: "/img/avatars/thumb-1.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-1.jpg",
                 role: "ویراستار"
             },
             {
                 userName: "کامیلا سیمونز",
-                userImg: "/img/avatars/thumb-9.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-9.jpg",
                 role: "خواننده"
             },
             {
                 userName: "شانون بیکر",
-                userImg: "/img/avatars/thumb-4.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-4.jpg",
                 role: "مالک"
             }
         ],
@@ -473,12 +473,12 @@ export const fileListData = [
         author: {
             name: "آرل مایلز",
             email: "earl@infotech.io",
-            img: "/img/avatars/thumb-10.jpg"
+            img: "/admin-panel/img/avatars/thumb-10.jpg"
         },
         activities: [
             {
                 userName: "آرل مایلز",
-                userImg: "/img/avatars/thumb-10.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-10.jpg",
                 actionType: "ایجاد",
                 timestamp: 1740100000
             }
@@ -486,7 +486,7 @@ export const fileListData = [
         permissions: [
             {
                 userName: "آرل مایلز",
-                userImg: "/img/avatars/thumb-10.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-10.jpg",
                 role: "مالک"
             }
         ],
@@ -503,18 +503,18 @@ export const fileListData = [
         author: {
             name: "کاساندرا موری",
             email: "lee_wheeler@infotech.io",
-            img: "/img/avatars/thumb-13.jpg"
+            img: "/admin-panel/img/avatars/thumb-13.jpg"
         },
         activities: [
             {
                 userName: "مریم هررا",
-                userImg: "/img/avatars/thumb-12.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-12.jpg",
                 actionType: "مشاهده",
                 timestamp: 1728123456
             },
             {
                 userName: "کاساندرا موری",
-                userImg: "/img/avatars/thumb-13.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-13.jpg",
                 actionType: "ایجاد",
                 timestamp: 1728123456
             }
@@ -522,12 +522,12 @@ export const fileListData = [
         permissions: [
             {
                 userName: "مریم هررا",
-                userImg: "/img/avatars/thumb-12.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-12.jpg",
                 role: "ویراستار"
             },
             {
                 userName: "کاساندرا موری",
-                userImg: "/img/avatars/thumb-13.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-13.jpg",
                 role: "مالک"
             }
         ],
@@ -543,24 +543,24 @@ export const fileListData = [
         author: {
             name: "جکی سوتو",
             email: "ella_robinson@infotech.io",
-            img: "/img/avatars/thumb-15.jpg"
+            img: "/admin-panel/img/avatars/thumb-15.jpg"
         },
         activities: [
             {
                 userName: "جسیکا ولز",
-                userImg: "/img/avatars/thumb-8.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-8.jpg",
                 actionType: "مشاهده",
                 timestamp: 1732012345
             },
             {
                 userName: "آرل مایلز",
-                userImg: "/img/avatars/thumb-10.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-10.jpg",
                 actionType: "ویرایش",
                 timestamp: 1732012345
             },
             {
                 userName: "جکی سوتو",
-                userImg: "/img/avatars/thumb-15.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-15.jpg",
                 actionType: "ایجاد",
                 timestamp: 1732012345
             }
@@ -568,17 +568,17 @@ export const fileListData = [
         permissions: [
             {
                 userName: "جسیکا ولز",
-                userImg: "/img/avatars/thumb-8.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-8.jpg",
                 role: "خواننده"
             },
             {
                 userName: "آرل مایلز",
-                userImg: "/img/avatars/thumb-10.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-10.jpg",
                 role: "ویراستار"
             },
             {
                 userName: "جکی سوتو",
-                userImg: "/img/avatars/thumb-15.jpg",
+                userImg: "/admin-panel/img/avatars/thumb-15.jpg",
                 role: "مالک"
             }
         ],
@@ -595,30 +595,30 @@ export const fileListData = [
         author: {
             name: 'آنجلا گوتلی',
             email: 'eileen_h@hotmail.com',
-            img: '/img/avatars/thumb-1.jpg',
+            img: '/admin-panel/img/avatars/thumb-1.jpg',
         },
         activities: [
             {
                 userName: 'شانون بیکر',
-                userImg: '/img/avatars/thumb-4.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-4.jpg',
                 actionType: 'مشاهده',
                 timestamp: 1733890123,
             },
             {
                 userName: 'رابرتا هورتون',
-                userImg: '/img/avatars/thumb-7.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-7.jpg',
                 actionType: 'ویرایش',
                 timestamp: 1733890123,
             },
             {
                 userName: 'مکس الکساندر',
-                userImg: '/img/avatars/thumb-3.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-3.jpg',
                 actionType: 'دانلود',
                 timestamp: 1733890123,
             },
             {
                 userName: 'آنجلا گوتلی',
-                userImg: '/img/avatars/thumb-11.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-11.jpg',
                 actionType: 'ایجاد',
                 timestamp: 1733890123,
             },
@@ -626,22 +626,22 @@ export const fileListData = [
         permissions: [
             {
                 userName: 'شانون بیکر',
-                userImg: '/img/avatars/thumb-4.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-4.jpg',
                 role: 'خواننده',
             },
             {
                 userName: 'رابرتا هورتون',
-                userImg: '/img/avatars/thumb-7.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-7.jpg',
                 role: 'ویراستار',
             },
             {
                 userName: 'مکس الکساندر',
-                userImg: '/img/avatars/thumb-3.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-3.jpg',
                 role: 'ویراستار',
             },
             {
                 userName: 'آنجلا گوتلی',
-                userImg: '/img/avatars/thumb-11.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-11.jpg',
                 role: 'مالک',
             },
         ],
@@ -652,23 +652,23 @@ export const fileListData = [
         id: '16',
         name: 'Lone_bear.jpg',
         fileType: 'jpeg',
-        srcUrl: '/img/others/img-4.jpg',
+        srcUrl: '/admin-panel/img/others/img-4.jpg',
         size: 1678901.4,
         author: {
             name: 'کاساندرا موری',
             email: 'lee_wheeler@infotech.io',
-            img: '/img/avatars/thumb-13.jpg',
+            img: '/admin-panel/img/avatars/thumb-13.jpg',
         },
         activities: [
             {
                 userName: 'مریم هررا',
-                userImg: '/img/avatars/thumb-12.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-12.jpg',
                 actionType: 'مشاهده',
                 timestamp: 1728123456,
             },
             {
                 userName: 'کاساندرا موری',
-                userImg: '/img/avatars/thumb-13.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-13.jpg',
                 actionType: 'ایجاد',
                 timestamp: 1728123456,
             },
@@ -676,12 +676,12 @@ export const fileListData = [
         permissions: [
             {
                 userName: 'مریم هررا',
-                userImg: '/img/avatars/thumb-12.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-12.jpg',
                 role: 'خواننده',
             },
             {
                 userName: 'کاساندرا موری',
-                userImg: '/img/avatars/thumb-13.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-13.jpg',
                 role: 'مالک',
             },
         ],
@@ -697,18 +697,18 @@ export const fileListData = [
         author: {
             name: 'کامیلا سیمونز',
             email: 'carolyn_h@gmail.com',
-            img: '/img/avatars/thumb-9.jpg',
+            img: '/admin-panel/img/avatars/thumb-9.jpg',
         },
         activities: [
             {
                 userName: 'کاساندرا موری',
-                userImg: '/img/avatars/thumb-13.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-13.jpg',
                 actionType: 'مشاهده',
                 timestamp: 1721487234,
             },
             {
                 userName: 'کامیلا سیمونز',
-                userImg: '/img/avatars/thumb-9.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-9.jpg',
                 actionType: 'ایجاد',
                 timestamp: 1721487234,
             },
@@ -716,12 +716,12 @@ export const fileListData = [
         permissions: [
             {
                 userName: 'کاساندرا موری',
-                userImg: '/img/avatars/thumb-13.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-13.jpg',
                 role: 'ویراستار',
             },
             {
                 userName: 'کامیلا سیمونز',
-                userImg: '/img/avatars/thumb-9.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-9.jpg',
                 role: 'مالک',
             },
         ],
@@ -738,12 +738,12 @@ export const fileListData = [
         author: {
             name: 'مریم هررا',
             email: 'miriam@infotech.io',
-            img: '/img/avatars/thumb-12.jpg',
+            img: '/admin-panel/img/avatars/thumb-12.jpg',
         },
         activities: [
             {
                 userName: 'مریم هررا',
-                userImg: '/img/avatars/thumb-12.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-12.jpg',
                 actionType: 'ایجاد',
                 timestamp: 1740200000,
             },
@@ -751,7 +751,7 @@ export const fileListData = [
         permissions: [
             {
                 userName: 'مریم هررا',
-                userImg: '/img/avatars/thumb-12.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-12.jpg',
                 role: 'مالک',
             },
         ],
@@ -767,12 +767,12 @@ export const fileListData = [
         author: {
             name: 'کامیلا سیمونز',
             email: 'camila@infotech.io',
-            img: '/img/avatars/thumb-9.jpg',
+            img: '/admin-panel/img/avatars/thumb-9.jpg',
         },
         activities: [
             {
                 userName: 'کامیلا سیمونز',
-                userImg: '/img/avatars/thumb-9.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-9.jpg',
                 actionType: 'ایجاد',
                 timestamp: 1740300000,
             },
@@ -780,7 +780,7 @@ export const fileListData = [
         permissions: [
             {
                 userName: 'کامیلا سیمونز',
-                userImg: '/img/avatars/thumb-9.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-9.jpg',
                 role: 'مالک',
             },
         ],
@@ -796,12 +796,12 @@ export const fileListData = [
         author: {
             name: 'شانون بیکر',
             email: 'shannon@infotech.io',
-            img: '/img/avatars/thumb-4.jpg',
+            img: '/admin-panel/img/avatars/thumb-4.jpg',
         },
         activities: [
             {
                 userName: 'شانون بیکر',
-                userImg: '/img/avatars/thumb-4.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-4.jpg',
                 actionType: 'ایجاد',
                 timestamp: 1740400000,
             },
@@ -809,7 +809,7 @@ export const fileListData = [
         permissions: [
             {
                 userName: 'شانون بیکر',
-                userImg: '/img/avatars/thumb-4.jpg',
+                userImg: '/admin-panel/img/avatars/thumb-4.jpg',
                 role: 'مالک',
             },
         ],

@@ -42,7 +42,7 @@ const Advance = () => {
                 <Timeline.Item
                     media={
                         <TimelineAvatar
-                            src="/img/avatars/thumb-3.jpg"
+                            src="/admin-panel/img/avatars/thumb-3.jpg"
                             className="bg-amber-500"
                         />
                     }

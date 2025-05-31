@@ -197,13 +197,13 @@ const SettingsBilling = () => {
                             <div className="flex items-center">
                                 {card.cardType === 'VISA' && (
                                     <img
-                                        src="/img/others/img-8.png"
+                                        src="/admin-panel/img/others/img-8.png"
                                         alt="ویزا"
                                     />
                                 )}
                                 {card.cardType === 'MASTER' && (
                                     <img
-                                        src="/img/others/img-9.png"
+                                        src="/admin-panel/img/others/img-9.png"
                                         alt="مستر"
                                     />
                                 )}

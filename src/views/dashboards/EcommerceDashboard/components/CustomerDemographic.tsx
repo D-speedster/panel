@@ -11,12 +11,12 @@ type CustomerDemographicProps = {
 }
 
 const mapMeta: Record<string, { img: string }> = {
-    us: { img: '/img/countries/US.png' },
-    br: { img: '/img/countries/BR.png' },
-    in: { img: '/img/countries/IN.png' },
-    uk: { img: '/img/countries/UK.png' },
-    tr: { img: '/img/countries/TR.png' },
-    id: { img: '/img/countries/ID.png' },
+    us: { img: '/admin-panel/img/countries/US.png' },
+    br: { img: '/admin-panel/img/countries/BR.png' },
+    in: { img: '/admin-panel/img/countries/IN.png' },
+    uk: { img: '/admin-panel/img/countries/UK.png' },
+    tr: { img: '/admin-panel/img/countries/TR.png' },
+    id: { img: '/admin-panel/img/countries/ID.png' },
 }
 
 const getMapMeta = (data: CustomerDemographicData[] = []) => {
