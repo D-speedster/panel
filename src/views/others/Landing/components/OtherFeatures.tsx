@@ -5,10 +5,10 @@ import { motion } from 'framer-motion'
 import type { ReactNode } from 'react'
 
 const mapMeta: Record<string, { img: string }> = {
-    us: { img: '/admin-panel/img/countries/US.png' },
-    cn: { img: '/admin-panel/img/countries/CN.png' },
-    es: { img: '/admin-panel/img/countries/ES.png' },
-    sa: { img: '/admin-panel/img/countries/SA.png' },
+    us: { img: '/img/countries/US.png' },
+    cn: { img: '/img/countries/CN.png' },
+    es: { img: '/img/countries/ES.png' },
+    sa: { img: '/img/countries/SA.png' },
 }
 
 const data = [
