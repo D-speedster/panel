@@ -7,7 +7,7 @@ import {
     HiOutlineBan,
 } from 'react-icons/hi'
 
-const imagePath = '/img/avatars/'
+const imagePath = '/admin-panel/img/avatars/'
 
 const GeneratedAvatar = ({ target }: { target: string }) => {
     const color = useRandomBgColor()

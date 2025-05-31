@@ -3,7 +3,7 @@ const coreFeatures = [
     {
         id: 'react',
         name: 'React',
-        img: '/img/thumbs/react.png',
+        img: '/admin-panel/img/thumbs/react.png',
         src: 'https://reactjs.org/',
         description:
             'یک کتابخانه جاوااسکریپت محبوب برای ساخت رابط کاربری.',
@@ -11,7 +11,7 @@ const coreFeatures = [
     {
         id: 'vite',
         name: 'Vite',
-        img: '/img/thumbs/vite.png',
+        img: '/admin-panel/img/thumbs/vite.png',
         src: 'https://vitejs.dev/',
         description:
             'Vite یک ابزار مدرن و سریع برای ساخت و بسته‌بندی است.',
@@ -19,8 +19,8 @@ const coreFeatures = [
     {
         id: 'typeScriptOrJavascript',
         name: 'TypeScript or JavaScript',
-        img: '/img/thumbs/typeScript.png',
-        img2: '/img/thumbs/javaScript.png',
+        img: '/admin-panel/img/thumbs/typeScript.png',
+        img2: '/admin-panel/img/thumbs/javaScript.png',
         src: 'https://www.typescriptlang.org/',
         description:
             'TypeScript یک زبان برنامه‌نویسی با تایپ قوی است که بر اساس جاوااسکریپت بنا شده است.',
@@ -29,7 +29,7 @@ const coreFeatures = [
     {
         id: 'tailwind',
         name: 'Tailwind Css',
-        img: '/img/thumbs/tailwind.png',
+        img: '/admin-panel/img/thumbs/tailwind.png',
         src: 'https://tailwindcss.com/',
         description: 'یک چارچوب سی‌اس‌اس اولویت‌دار با کلاس‌ها.',
     },

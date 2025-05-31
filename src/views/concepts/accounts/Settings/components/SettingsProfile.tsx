@@ -71,7 +71,7 @@ const CustomSelectOption = (
                     <Avatar
                         shape="circle"
                         size={20}
-                        src={`/img/countries/${data.value}.png`}
+                        src={`/admin-panel/img/countries/${data.value}.png`}
                     />
                     {props.variant === 'country' && <span>{label}</span>}
                     {props.variant === 'phone' && <span>{data.dialCode}</span>}
@@ -90,7 +90,7 @@ const CustomControl = ({ children, ...props }: ControlProps<CountryOption>) => {
                     className="ltr:ml-4 rtl:mr-4"
                     shape="circle"
                     size={20}
-                    src={`/img/countries/${selected.value}.png`}
+                    src={`/admin-panel/img/countries/${selected.value}.png`}
                 />
             )}
             {children}

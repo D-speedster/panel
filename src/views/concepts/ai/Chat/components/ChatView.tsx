@@ -63,7 +63,7 @@ const ChatView = () => {
                         ? {
                               id: 'ai',
                               name: 'Chat AI',
-                              avatarImageUrl: '/img/thumbs/ai.jpg',
+                              avatarImageUrl: '/admin-panel/img/thumbs/ai.jpg',
                           }
                         : false
                 }
