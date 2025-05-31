@@ -27,7 +27,7 @@ const _LanguageSelector = ({ className }: CommonProps) => {
             <Avatar
                 size={24}
                 shape="circle"
-                src={`/admin-panel/img/countries/${selectLangFlag}.png`}
+                src={`/img/countries/${selectLangFlag}.png`}
             />
         </div>
     )
@@ -45,7 +45,7 @@ const _LanguageSelector = ({ className }: CommonProps) => {
                         <Avatar
                             size={18}
                             shape="circle"
-                            src={`/admin-panel/img/countries/${lang.flag}.png`}
+                            src={`/img/countries/${lang.flag}.png`}
                         />
                         <span className="ltr:ml-2 rtl:mr-2">{lang.label}</span>
                     </span>

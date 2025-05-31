@@ -2,15 +2,15 @@
 import Masonry from '@/components/shared/Masonry'
 
 const imageList = [
-    { src: '/admin-panel/img/others/gallery/img-27.webp', title: 'Image 1' },
-    { src: '/admin-panel/img/others/gallery/img-29.webp', title: 'Image 2' },
-    { src: '/admin-panel/img/others/gallery/img-30.webp', title: 'Image 3' },
-    { src: '/admin-panel/img/others/gallery/img-28.webp', title: 'Image 4' },
-    { src: '/admin-panel/img/others/gallery/img-26.webp', title: 'Image 6' },
-    { src: '/admin-panel/img/others/gallery/img-31.webp', title: 'Image 5' },
-    { src: '/admin-panel/img/others/gallery/img-19.webp', title: 'Image 7' },
-    { src: '/admin-panel/img/others/gallery/img-32.webp', title: 'Image 8' },
-    { src: '/admin-panel/img/others/gallery/img-17.webp', title: 'Image 9' },
+    { src: '/img/others/gallery/img-27.webp', title: 'Image 1' },
+    { src: '/img/others/gallery/img-29.webp', title: 'Image 2' },
+    { src: '/img/others/gallery/img-30.webp', title: 'Image 3' },
+    { src: '/img/others/gallery/img-28.webp', title: 'Image 4' },
+    { src: '/img/others/gallery/img-26.webp', title: 'Image 6' },
+    { src: '/img/others/gallery/img-31.webp', title: 'Image 5' },
+    { src: '/img/others/gallery/img-19.webp', title: 'Image 7' },
+    { src: '/img/others/gallery/img-32.webp', title: 'Image 8' },
+    { src: '/img/others/gallery/img-17.webp', title: 'Image 9' },
 ]
 
 const Responsive = () => {

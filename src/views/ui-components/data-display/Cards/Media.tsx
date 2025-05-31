@@ -8,7 +8,7 @@ const HeaderFooterBorder = () => {
                 size={30}
                 className="mr-2"
                 shape="circle"
-                src="/admin-panel/img/avatars/thumb-1.jpg"
+                src="/img/avatars/thumb-1.jpg"
             />
             <span>
                 <h6 className="text-sm">کریستن فیشر</h6>
@@ -19,7 +19,7 @@ const HeaderFooterBorder = () => {
 
     const cardHeader = (
         <div className="rounded-tl-lg rounded-tr-lg overflow-hidden">
-            <img src="/admin-panel/img/others/img-1.jpg" alt="هدر کارت" />
+            <img src="/img/others/img-1.jpg" alt="هدر کارت" />
         </div>
     )
 

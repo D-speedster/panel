@@ -57,7 +57,7 @@ const OauthSignIn = ({ setMessage, disableSubmit }: OauthSignInProps) => {
                 <div className="flex items-center justify-center gap-2">
                     <img
                         className="h-[25px] w-[25px]"
-                        src="/admin-panel/img/others/google.png"
+                        src="/img/others/google.png"
                         alt="Google sign in"
                     />
                     <span>Google</span>
@@ -71,7 +71,7 @@ const OauthSignIn = ({ setMessage, disableSubmit }: OauthSignInProps) => {
                 <div className="flex items-center justify-center gap-2">
                     <img
                         className="h-[25px] w-[25px]"
-                        src="/admin-panel/img/others/github.png"
+                        src="/img/others/github.png"
                         alt="Google sign in"
                     />
                     <span>Github</span>

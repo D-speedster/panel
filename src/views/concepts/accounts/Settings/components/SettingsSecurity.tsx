@@ -21,19 +21,19 @@ const authenticatorList = [
     {
         label: 'Google Authenticator',
         value: 'googleAuthenticator',
-        img: '/admin-panel/img/others/google.png',
+        img: '/img/others/google.png',
         desc: 'با استفاده از اپلیکیشن Google Authenticator کدهای حساس به زمان برای ورود امن تولید می‌شود.',
     },
     {
         label: 'Okta Verify',
         value: 'oktaVerify',
-        img: '/admin-panel/img/others/okta.png',
+        img: '/img/others/okta.png',
         desc: 'دریافت اعلان‌های فشاری از اپلیکیشن Okta Verify روی گوشی شما برای تأیید سریع ورود.',
     },
     {
         label: 'تأیید ایمیل',
         value: 'emailVerification',
-        img: '/admin-panel/img/others/email.png',
+        img: '/img/others/email.png',
         desc: 'کدهای یکتایی که برای تأیید ورود به ایمیل شما ارسال می‌شود.',
     },
 ];

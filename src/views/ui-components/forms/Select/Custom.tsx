@@ -16,10 +16,10 @@ type Option = {
 const { MultiValueLabel, Control } = components
 
 const countryOptions: Option[] = [
-    { value: 'us', label: 'United State', imgPath: '/admin-panel/img/countries/US.png' },
-    { value: 'cn', label: 'China', imgPath: '/admin-panel/img/countries/CN.png' },
-    { value: 'jp', label: 'Japan', imgPath: '/admin-panel/img/countries/JP.png' },
-    { value: 'fr', label: 'French', imgPath: '/admin-panel/img/countries/FR.png' },
+    { value: 'us', label: 'United State', imgPath: '/img/countries/US.png' },
+    { value: 'cn', label: 'China', imgPath: '/img/countries/CN.png' },
+    { value: 'jp', label: 'Japan', imgPath: '/img/countries/JP.png' },
+    { value: 'fr', label: 'French', imgPath: '/img/countries/FR.png' },
 ]
 
 const CustomSelectOption = (props: OptionProps<Option>) => {

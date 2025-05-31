@@ -192,7 +192,7 @@ const _Notification = ({ className }: { className?: string }) => {
                         <div className="text-center">
                             <img
                                 className="mx-auto mb-2 max-w-[150px]"
-                                src="/admin-panel/img/others/no-notification.png"
+                                src="/img/others/no-notification.png"
                                 alt="no-notification"
                             />
                             <h6 className="font-semibold">هیچ اعلانی نیست!</h6>

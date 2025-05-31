@@ -13,7 +13,7 @@ const Split = ({ children, content, ...rest }: SplitProps) => {
                 <div className="flex flex-col items-center gap-12">
                     <img
                         className="max-w-[450px] 2xl:max-w-[900px]"
-                        src="/admin-panel/img/others/auth-split-img.png"
+                        src="/img/others/auth-split-img.png"
                     />
                     <div className="text-center max-w-[550px]">
                         <h1 className="text-neutral">

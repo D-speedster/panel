@@ -69,7 +69,7 @@ export const logData = [
                 type: 'COMMENT',
                 dateTime: 1646578417,
                 userName: 'Max Alexander',
-                userImg: '/admin-panel/img/avatars/thumb-3.jpg',
+                userImg: '/img/avatars/thumb-3.jpg',
                 comment: `نظر: «خوب، جاوا ممکن است نمونه خوبی از زبان برنامه نویسی باشد. اما برنامه‌های جاوا نمونه‌های خوبی از این هستند که برنامه‌ها نباید چگونه باشند.`,
             },
             {
@@ -89,7 +89,7 @@ export const logData = [
                 type: 'COMMENT-MENTION',
                 dateTime: 1646565473,
                 userName: 'Roberta Horton',
-                userImg: '/admin-panel/img/avatars/thumb-7.jpg',
+                userImg: '/img/avatars/thumb-7.jpg',
                 comment: `<strong>@کارولین</strong> یکی از دلایل اصلی سقوط امپراتوری روم این بود که - به دلیل نداشتن عدد صفر - راهی برای نشان دادن پایان موفقیت‌آمیز برنامه‌های C خود نداشتند.`
             },
             {
@@ -109,7 +109,7 @@ export const logData = [
                 type: 'COMMENT',
                 dateTime: 1646459376,
                 userName: 'Jessica Wells',
-                userImg: '/admin-panel/img/avatars/thumb-8.jpg',
+                userImg: '/img/avatars/thumb-8.jpg',
                 comment: `مشکل برنامه‌نویس‌ها این است که تا زمانی که خیلی دیر نشده، نمی‌توانید بفهمید یک برنامه‌نویس چه کاری انجام می‌دهد.`
             },
             {
@@ -118,7 +118,7 @@ export const logData = [
                 ticket: 'PD-977',
                 status: 1,
                 userName: 'Earl Miles',
-                userImg: '/admin-panel/img/avatars/thumb-10.jpg',
+                userImg: '/img/avatars/thumb-10.jpg',
             },
             {
                 type: 'CREATE-TICKET',
@@ -151,13 +151,13 @@ export const logData = [
                 ticket: 'PD-915',
                 status: 0,
                 userName: 'Alvin Moreno',
-                userImg: '/admin-panel/img/avatars/thumb-14.jpg',
+                userImg: '/img/avatars/thumb-14.jpg',
             },
             {
                 type: 'COMMENT-MENTION',
                 dateTime: 1646356103,
                 userName: 'Roberta Horton',
-                userImg: '/admin-panel/img/avatars/thumb-7.jpg',
+                userImg: '/img/avatars/thumb-7.jpg',
                 comment: `<strong>@کارولین</strong> اول مسئله را حل کن، بعد کد بنویس.`
             },
             {
@@ -177,7 +177,7 @@ export const logData = [
                 type: 'COMMENT',
                 dateTime: 1646351233,
                 userName: 'Shannon Baker',
-                userImg: '/admin-panel/img/avatars/thumb-4.jpg',
+                userImg: '/img/avatars/thumb-4.jpg',
                 comment: `اخیراً متوجه شده‌ام که ترس پارانویایی از هوشمند شدن کامپیوترها و تسلط آن‌ها بر دنیا تقریباً به‌طور کامل از فرهنگ عمومی ناپدید شده است. تا جایی که می‌توانم بگویم، این همزمان با انتشار MS-DOS اتفاق افتاد.`
             },
         ],
@@ -192,7 +192,7 @@ export const logData = [
                 ticket: 'PD-911',
                 status: 1,
                 userName: 'Terrance Moreno',
-                userImg: '/admin-panel/img/avatars/thumb-2.jpg',
+                userImg: '/img/avatars/thumb-2.jpg',
             },
             {
                 type: 'ADD-TAGS-TO-TICKET',
@@ -210,7 +210,7 @@ export const logData = [
                 type: 'COMMENT',
                 dateTime: 1646253204,
                 userName: 'Camila Simmmons',
-                userImg: '/admin-panel/img/avatars/thumb-9.jpg',
+                userImg: '/img/avatars/thumb-9.jpg',
                 comment: `به محض شروع برنامه نویسی، در کمال تعجب متوجه شدیم که درست کردن برنامه ها آنقدر که فکر می کردیم آسان نیست. اشکال زدایی باید کشف می شد. دقیقاً لحظه ای را به یاد می آورم که متوجه شدم بخش زیادی از زندگی من از آن زمان به بعد صرف یافتن اشتباهات در برنامه های خودم می شود.`,
             },
         ],
@@ -242,7 +242,7 @@ export const logData = [
                 type: 'COMMENT-MENTION',
                 dateTime: 1646252044,
                 userName: 'Miriam Herrera',
-                userImg: '/admin-panel/img/avatars/thumb-12.jpg',
+                userImg: '/img/avatars/thumb-12.jpg',
                 comment: `<strong>@Carolyn</strong> برنامه نویسان برای ایجاد برنامه های ضد احمق بزرگتر و بهتر در حال رقابت با جهان هستند، در حالی که جهان در تلاش است احمق های بزرگتر و بهتری ایجاد کند. تا اینجا کائنات برنده است.`,
             },
             {
@@ -261,7 +261,7 @@ export const logData = [
                 type: 'COMMENT-MENTION',
                 dateTime: 1646051653,
                 userName: 'Camila Simmmons',
-                userImg: '/admin-panel/img/avatars/thumb-9.jpg',
+                userImg: '/img/avatars/thumb-9.jpg',
                 comment: `<strong>@Carolyn</strong> دو راه برای نوشتن برنامه‌های بدون خطا وجود دارد. فقط سومی کار میکنه`,
             },
             {
@@ -275,7 +275,7 @@ export const logData = [
                 type: 'COMMENT-MENTION',
                 dateTime: 1646050001,
                 username: 'Angelina Gotelli',
-                userImg: '/admin-panel/img/avatars/thumb-1.jpg',
+                userImg: '/img/avatars/thumb-1.jpg',
                 comment: `<strong>@Carolyn</strong> اگر درست کار نکرد نگران نباشید. اگر همه چیز انجام می شد، شما بیکار می شدید.`,
             },
         ],
@@ -294,14 +294,14 @@ export const logData = [
                 type: 'COMMENT',
                 dateTime: 1646497323,
                 userName: 'Jessica Wells',
-                userImg: '/admin-panel/img/avatars/thumb-8.jpg',
+                userImg: '/img/avatars/thumb-8.jpg',
                 comment: `دو روش برای ساخت یک طراحی نرم افزاری وجود دارد. یکی از راه ها این است که آن را به قدری ساده کنید که مشخصاً هیچ کمبودی وجود نداشته باشد. و راه دیگر این است که آن را آنقدر پیچیده کنیم که کمبودهای آشکاری وجود نداشته باشد.`,
             },
             {
                 type: 'COMMENT-MENTION',
                 dateTime: 1646492123,
                 userName: 'Roberta Horton',
-                userImg: '/admin-panel/img/avatars/thumb-7.jpg',
+                userImg: '/img/avatars/thumb-7.jpg',
                 comment: `<strong>@Carolyn</strong> این چیزی است که در کار با رایانه جالب است. آنها بحث نمی کنند، همه چیز را به یاد می آورند و تمام آبجو شما را نمی نوشند. (پل لیری) با توجه به وضعیت غم انگیز فعلی برنامه های رایانه ای ما، توسعه نرم افزار به وضوح هنوز یک هنر سیاه است و هنوز نمی توان آن را یک رشته مهندسی نامید.`,
             },
             {
@@ -310,7 +310,7 @@ export const logData = [
                 ticket: 'PD-915',
                 status: 1,
                 userName: 'Earl Miles',
-                userImg: '/admin-panel/img/avatars/thumb-10.jpg',
+                userImg: '/img/avatars/thumb-10.jpg',
             },
         ],
     },

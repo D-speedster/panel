@@ -13,7 +13,7 @@ if (appConfig.enableMock) {
 function App() {
     return (
         <Theme>
-            <BrowserRouter basename="/admin-panel">
+            <BrowserRouter>
                 <AuthProvider>
                     <Layout>
                         <Views />

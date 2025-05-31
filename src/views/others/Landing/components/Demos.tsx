@@ -108,8 +108,8 @@ const DemoCard = ({
                         className="rounded-xl"
                         src={
                             mode === 'light'
-                                ? `/admin-panel/img/landing/demo/${id}.png`
-                                : `/admin-panel/img/landing/demo/${id}-dark.png`
+                                ? `/img/landing/demo/${id}.png`
+                                : `/img/landing/demo/${id}-dark.png`
                         }
                         alt={name}
                     />

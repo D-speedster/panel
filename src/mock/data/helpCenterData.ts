@@ -104,7 +104,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'ران وگاس',
-                img: '/admin-panel/img/avatars/thumb-3.jpg',
+                img: '/img/avatars/thumb-3.jpg',
             },
         ],
         tags: [
@@ -129,11 +129,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'کارولین هنسن',
-                img: '/admin-panel/img/avatars/thumb-9.jpg',
+                img: '/img/avatars/thumb-9.jpg',
             },
             {
                 name: 'سامانتا فیلیپس',
-                img: '/admin-panel/img/avatars/thumb-6.jpg',
+                img: '/img/avatars/thumb-6.jpg',
             },
         ],
         tags: [
@@ -159,7 +159,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'لوید اوبریان',
-                img: '/admin-panel/img/avatars/thumb-11.jpg',
+                img: '/img/avatars/thumb-11.jpg',
             },
         ],
         tags: [
@@ -185,7 +185,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'جویس فریمن',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
         ],
         tags: [
@@ -213,7 +213,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'ترنس مورنو',
-                img: '/admin-panel/img/avatars/thumb-2.jpg',
+                img: '/img/avatars/thumb-2.jpg',
             },
         ],
         tags: [
@@ -240,15 +240,15 @@ export const articleListData = [
         authors: [
             {
                 name: 'لوک کوک',
-                img: '/admin-panel/img/avatars/thumb-4.jpg',
+                img: '/img/avatars/thumb-4.jpg',
             },
             {
                 name: 'سامانتا فیلیپس',
-                img: '/admin-panel/img/avatars/thumb-6.jpg',
+                img: '/img/avatars/thumb-6.jpg',
             },
             {
                 name: 'جویس فریمن',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
         ],
         tags: [
@@ -273,7 +273,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'جویس فریمن',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
         ],
         tags: [
@@ -299,7 +299,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'تارا فلتچر',
-                img: '/admin-panel/img/avatars/thumb-7.jpg',
+                img: '/img/avatars/thumb-7.jpg',
             },
         ],
         tags: [
@@ -326,7 +326,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'تارا فلتچر',
-                img: '/admin-panel/img/avatars/thumb-7.jpg',
+                img: '/img/avatars/thumb-7.jpg',
             },
         ],
         tags: [
@@ -353,7 +353,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'فردریک آدامز',
-                img: '/admin-panel/img/avatars/thumb-8.jpg',
+                img: '/img/avatars/thumb-8.jpg',
             },
         ],
         tags: [
@@ -378,11 +378,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'گابریلا می',
-                img: '/admin-panel/img/avatars/thumb-12.jpg',
+                img: '/img/avatars/thumb-12.jpg',
             },
             {
                 name: 'گِیل بارنز',
-                img: '/admin-panel/img/avatars/thumb-14.jpg',
+                img: '/img/avatars/thumb-14.jpg',
             },
         ],
         tags: [
@@ -409,7 +409,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'الا رابینسون',
-                img: '/admin-panel/img/avatars/thumb-15.jpg',
+                img: '/img/avatars/thumb-15.jpg',
             },
         ],
         tags: [
@@ -437,7 +437,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'لی وییلر',
-                img: '/admin-panel/img/avatars/thumb-13.jpg',
+                img: '/img/avatars/thumb-13.jpg',
             },
         ],
         tags: [
@@ -463,7 +463,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'بریتانیا هیل',
-                img: '/admin-panel/img/avatars/thumb-10.jpg',
+                img: '/img/avatars/thumb-10.jpg',
             },
         ],
         tags: [
@@ -488,11 +488,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'ترانس مورنو',
-                img: '/admin-panel/img/avatars/thumb-2.jpg',
+                img: '/img/avatars/thumb-2.jpg',
             },
             {
                 name: 'بریتانیا هیل',
-                img: '/admin-panel/img/avatars/thumb-10.jpg',
+                img: '/img/avatars/thumb-10.jpg',
             },
         ],
         tags: [
@@ -520,7 +520,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'رون وارگاس',
-                img: '/admin-panel/img/avatars/thumb-3.jpg',
+                img: '/img/avatars/thumb-3.jpg',
             },
         ],
         tags: [
@@ -546,7 +546,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'لوک کوک',
-                img: '/admin-panel/img/avatars/thumb-4.jpg',
+                img: '/img/avatars/thumb-4.jpg',
             },
         ],
         tags: [
@@ -571,7 +571,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'کارولین هنسون',
-                img: '/admin-panel/img/avatars/thumb-9.jpg',
+                img: '/img/avatars/thumb-9.jpg',
             },
         ],
         tags: [
@@ -599,7 +599,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'کارولین پرکینز',
-                img: '/admin-panel/img/avatars/thumb-1.jpg',
+                img: '/img/avatars/thumb-1.jpg',
             },
         ],
         tags: [
@@ -626,7 +626,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'ترنس مورنو',
-                img: '/admin-panel/img/avatars/thumb-2.jpg',
+                img: '/img/avatars/thumb-2.jpg',
             },
         ],
         tags: [
@@ -652,7 +652,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'فردریک آدامز',
-                img: '/admin-panel/img/avatars/thumb-8.jpg',
+                img: '/img/avatars/thumb-8.jpg',
             },
         ],
         tags: [
@@ -679,7 +679,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'لی ویلر',
-                img: '/admin-panel/img/avatars/thumb-13.jpg',
+                img: '/img/avatars/thumb-13.jpg',
             },
         ],
         tags: [
@@ -706,7 +706,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'Joyce Freeman',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
         ],
         tags: [{ id: 6, label: 'ادغام' }],
@@ -728,11 +728,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'Carolyn Perkins',
-                img: '/admin-panel/img/avatars/thumb-1.jpg',
+                img: '/img/avatars/thumb-1.jpg',
             },
             {
                 name: 'Gabriella May',
-                img: '/admin-panel/img/avatars/thumb-12.jpg',
+                img: '/img/avatars/thumb-12.jpg',
             },
         ],
         tags: [
@@ -757,11 +757,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'Alex Johnson',
-                img: '/admin-panel/img/avatars/thumb-2.jpg',
+                img: '/img/avatars/thumb-2.jpg',
             },
             {
                 name: 'Emily Zhang',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
         ],
         tags: [
@@ -786,7 +786,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'Olivia Brown',
-                img: '/admin-panel/img/avatars/thumb-3.jpg',
+                img: '/img/avatars/thumb-3.jpg',
             },
         ],
         tags: [{ id: 3, label: 'عیب‌یابی' }],
@@ -808,11 +808,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'Sophia Martinez',
-                img: '/admin-panel/img/avatars/thumb-4.jpg',
+                img: '/img/avatars/thumb-4.jpg',
             },
             {
                 name: 'James Lee',
-                img: '/admin-panel/img/avatars/thumb-9.jpg',
+                img: '/img/avatars/thumb-9.jpg',
             },
         ],
         tags: [
@@ -839,11 +839,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'Isabella Clark',
-                img: '/admin-panel/img/avatars/thumb-7.jpg',
+                img: '/img/avatars/thumb-7.jpg',
             },
             {
                 name: 'William Davis',
-                img: '/admin-panel/img/avatars/thumb-10.jpg',
+                img: '/img/avatars/thumb-10.jpg',
             },
         ],
         tags: [
@@ -871,11 +871,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'John Smith',
-                img: '/admin-panel/img/avatars/thumb-8.jpg',
+                img: '/img/avatars/thumb-8.jpg',
             },
             {
                 name: 'Sarah Brown',
-                img: '/admin-panel/img/avatars/thumb-11.jpg',
+                img: '/img/avatars/thumb-11.jpg',
             },
         ],
         tags: [
@@ -902,7 +902,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'مایکل جانسون',
-                img: '/admin-panel/img/avatars/thumb-9.jpg',
+                img: '/img/avatars/thumb-9.jpg',
             },
         ],
         tags: [{ id: 8, label: 'امنیت' }],
@@ -924,11 +924,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'اما دیویس',
-                img: '/admin-panel/img/avatars/thumb-10.jpg',
+                img: '/img/avatars/thumb-10.jpg',
             },
             {
                 name: 'جیمز ویلسون',
-                img: '/admin-panel/img/avatars/thumb-12.jpg',
+                img: '/img/avatars/thumb-12.jpg',
             },
         ],
         tags: [
@@ -953,7 +953,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'اولیویا تیلور',
-                img: '/admin-panel/img/avatars/thumb-3.jpg',
+                img: '/img/avatars/thumb-3.jpg',
             },
         ],
         tags: [
@@ -979,11 +979,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'ویلیام رابینسون',
-                img: '/admin-panel/img/avatars/thumb-4.jpg',
+                img: '/img/avatars/thumb-4.jpg',
             },
             {
                 name: 'ایزابللا مارتینز',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
         ],
         tags: [
@@ -1008,7 +1008,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'جان دو',
-                img: '/admin-panel/img/avatars/thumb-1.jpg',
+                img: '/img/avatars/thumb-1.jpg',
             },
         ],
         tags: [
@@ -1033,11 +1033,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'امیلی واتسون',
-                img: '/admin-panel/img/avatars/thumb-2.jpg',
+                img: '/img/avatars/thumb-2.jpg',
             },
             {
                 name: 'مارک جانسون',
-                img: '/admin-panel/img/avatars/thumb-3.jpg',
+                img: '/img/avatars/thumb-3.jpg',
             },
         ],
         tags: [{ id: 9, label: 'استقرار' }],
@@ -1059,7 +1059,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'اولیویا براون',
-                img: '/admin-panel/img/avatars/thumb-4.jpg',
+                img: '/img/avatars/thumb-4.jpg',
             },
         ],
         tags: [
@@ -1084,11 +1084,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'سوفیا لی',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
             {
                 name: 'جیمز ویلسون',
-                img: '/admin-panel/img/avatars/thumb-6.jpg',
+                img: '/img/avatars/thumb-6.jpg',
             },
         ],
         tags: [{ id: 13, label: 'پشتیبان‌گیری' }],
@@ -1110,7 +1110,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'آلیس جانسون',
-                img: '/admin-panel/img/avatars/thumb-1.jpg',
+                img: '/img/avatars/thumb-1.jpg',
             },
         ],
         tags: [{ id: 17, label: 'مهاجرت' }],
@@ -1132,11 +1132,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'مایکل براون',
-                img: '/admin-panel/img/avatars/thumb-2.jpg',
+                img: '/img/avatars/thumb-2.jpg',
             },
             {
                 name: 'لاورا وایت',
-                img: '/admin-panel/img/avatars/thumb-3.jpg',
+                img: '/img/avatars/thumb-3.jpg',
             },
         ],
         tags: [{ id: 9, label: 'استقرار' }],
@@ -1158,7 +1158,7 @@ export const articleListData = [
         authors: [
             {
                 name: 'امیلی دیویس',
-                img: '/admin-panel/img/avatars/thumb-4.jpg',
+                img: '/img/avatars/thumb-4.jpg',
             },
         ],
         tags: [
@@ -1183,11 +1183,11 @@ export const articleListData = [
         authors: [
             {
                 name: 'سوفیا لی',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
             {
                 name: 'جیمز ویلسون',
-                img: '/admin-panel/img/avatars/thumb-6.jpg',
+                img: '/img/avatars/thumb-6.jpg',
             },
         ],
         tags: [{ id: 5, label: 'راه‌اندازی' }],
