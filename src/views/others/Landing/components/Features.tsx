@@ -113,7 +113,7 @@ const Features = ({ mode, onModeChange, schema, setSchema }: FeaturesProps) => {
             content: (
                 <img
                     className="rounded-xl"
-                    src="/admin-panel/img/landing/layouts/collapsible.png"
+                    src="/img/landing/layouts/collapsible.png"
                     width={420}
                     height={240}
                     alt="layout"
@@ -126,7 +126,7 @@ const Features = ({ mode, onModeChange, schema, setSchema }: FeaturesProps) => {
             content: (
                 <img
                     className="rounded-xl"
-                    src="/admin-panel/img/landing/layouts/stacked.png"
+                    src="/img/landing/layouts/stacked.png"
                     width={420}
                     height={240}
                     alt="layout"
@@ -139,7 +139,7 @@ const Features = ({ mode, onModeChange, schema, setSchema }: FeaturesProps) => {
             content: (
                 <img
                     className="rounded-xl"
-                    src="/admin-panel/img/landing/layouts/topbar.png"
+                    src="/img/landing/layouts/topbar.png"
                     width={420}
                     height={240}
                     alt="layout"
@@ -152,7 +152,7 @@ const Features = ({ mode, onModeChange, schema, setSchema }: FeaturesProps) => {
             content: (
                 <img
                     className="rounded-xl"
-                    src="/admin-panel/img/landing/layouts/frameless.png"
+                    src="/img/landing/layouts/frameless.png"
                     width={420}
                     height={240}
                     alt="layout"
@@ -165,7 +165,7 @@ const Features = ({ mode, onModeChange, schema, setSchema }: FeaturesProps) => {
             content: (
                 <img
                     className="rounded-xl"
-                    src="/admin-panel/img/landing/layouts/overlay.png"
+                    src="/img/landing/layouts/overlay.png"
                     width={420}
                     height={240}
                     alt="layout"
@@ -303,7 +303,7 @@ const Features = ({ mode, onModeChange, schema, setSchema }: FeaturesProps) => {
                                                 {mode === MODE_LIGHT && (
                                                     <img
                                                         className="rounded-lg"
-                                                        src="/admin-panel/img/landing/layouts/documentation.png"
+                                                        src="/img/landing/layouts/documentation.png"
                                                         width={630}
                                                         height={562}
                                                         alt="مستندات Ecme"
@@ -312,7 +312,7 @@ const Features = ({ mode, onModeChange, schema, setSchema }: FeaturesProps) => {
                                                 {mode === MODE_DARK && (
                                                     <img
                                                         className="rounded-lg"
-                                                        src="/admin-panel/img/landing/layouts/documentation-dark.png"
+                                                        src="/img/landing/layouts/documentation-dark.png"
                                                         width={630}
                                                         height={562}
                                                         alt="مستندات Ecme"

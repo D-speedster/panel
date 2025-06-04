@@ -88,7 +88,7 @@ const ChatBody = () => {
             sender: {
                 id: '1',
                 name: 'Angelina Gotelli',
-                avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                avatarImageUrl: '/img/avatars/thumb-1.jpg',
             },
             content: value,
             attachments: attachments?.map((attachment) => {

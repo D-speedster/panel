@@ -1,7 +1,7 @@
 const y = new Date().getFullYear()
 
 export const projectDetailsData = {
-    content: `<h5>بررسی پروژه</h5><p>گیاهان گاز می‌گیرند تا پرندگان را از مزاحمت برای ذرت بازدارند و مثل یک گربه نینجا عمل کنند و از این کار لذت ببرند، همه جا حضور دارند و مزاحمت می‌کنند، تمام روز روی جعبه خاک خود رنگین‌کمان درست می‌کنند، روی سر انسان‌ها می‌خوابند و از سگ‌ها نفرت دارند، به موش حمله می‌کنند، نخ می‌خورند و روی بالش بالا می‌آورند. عاشق حمام نیستند، و همه چیز را دوست ندارند. در اطراف خانه مدفوع می‌کنند، سگ را دنبال می‌کنند و فرار می‌کنند، اما وقتی نوازش‌شان کنی، نه آنجا، اینجا باید نوازش کنی،</p><h5>درباره‌ی مشتری</h5><p>لیسیدن خود. زیر تخت یا با خرخر یا حمله مثل یک هیولا و سپس ناگهان شروع به دویدن سریع در سراسر خانه بدون هیچ دلیل خاصی می‌کنند. در ساعت ۴ صبح جیغ می‌زنند یا به پا می‌چسبند و میومیو می‌کنند. گربه روی درخت گیر می‌کند، آتش‌نشان‌ها سعی می‌کنند گربه را پایین بیاورند، اما آتش‌نشان‌ها هم گیر می‌کنند، گربه دمپایی‌های آتش‌نشان‌ها را می‌خورد، در خانه می‌دود، از پله‌ها بالا و پایین می‌رود تا اشباح را دنبال کند، روی گوشی شما می‌خوابد و خرخرهای بامزه می‌کند، جوراب را بو می‌کند و با دهان نیمه باز راه می‌رود، در جعبه می‌نشیند، دیوارها را بو می‌کند، انگار صبحانه خورده است. گلوله مویی بالا می‌آورد، گربه کوچک و بامزه.</p><ul><li>چی شد؟ چیزی مشکوک به نظر می‌رسد. سرش را به ما می‌مالد و مدام گریه می‌کند، مگر اینکه نوازشش کنیم، و شاید هم برای سرگرمی گریه کند. تقاضا می‌کند که از هر چه انسان می‌پزد، به او بدهیم، سپس آن را بو می‌کند و دور می‌شود، پرده را لیس می‌زند فقط برای اذیت کردن، در باز می‌شود! چقدر هیجان‌انگیز! اوه، تویی، بی‌اهمیت. از روی میز می‌پرد، ماهی می‌خورد، بشقاب را از روی میز پرت می‌کند، سرش را می‌کوبد، نمی‌تواند از بشقاب خودش بخورد، به دمم دست بزنی، دستت را پاره می‌کنم. میومیو.</li><li>به سمت شخصی غافل حمله می‌کند، بلندترین صدای خرخر را در می‌آورد، همه چیز را از روی میز پرت می‌کند، اما پنجه‌هایش را روی شکم انسان کشیده و مانند ماشین چمن‌زنی خرخر می‌کند و درخواست نوازش می‌کند. گربه‌ها موجودات خاصی هستند، بنابراین نخ‌های آویزان را می‌لیسند، روی زمین می‌لغزند، به دیوار برخورد می‌کنند.</li><li>میومیو، تو صاحب منی، پس این موش مرده رو بگیر. از ظاهر ناگهانی خیار ترسید و حیوانات مرده را به عنوان هدیه گذاشت. گربه روی کاناپه می‌پرد، خرخر می‌کند و در دنیای جدیدی پر از خاک گربه بیدار می‌شود. میومیو، خوشمزه، کلی گربه دیگر اینجا هستند و در حال خوردن کت‌نیپ هستند.</li></ul><img src="/admin-panel/img/others/article-img-1.jpg" alt="" /><h5>اهداف</h5><p>پاداش به انسان انتخاب شده با یک پلک آرام، به طوری که مقداری کرک به چشم صاحب برسد و روی انسان بنشیند. بوی علف می‌دهد و سپس گربه‌ها دنیا را تسخیر می‌کنند، اما به چراغ سقف خیره می‌شوند، دماغ گربه دیگر را بو می‌کنند و دهان‌شان نیمه باز می‌ماند. ۴ ساعت نظافت - تیک، ۱۸ ساعت خواب زیبایی - تیک، بقیه روز بی‌نقص - تیک، همه جا مو می‌ریزند، پاهایت را گاز می‌گیرند، نقطه قرمز را دنبال می‌کنند، گلوله مویی، کت‌نیپ، علف می‌خورند، با سرعت تمام بالا و پایین می‌روند. گربه‌ها موجودات عجیبی هستند.</p><h5>نیازمندی‌ها</h5><p>شکم نرم و پنجه‌های کوچک، نه، نمی‌تونی در رو ببندی، هنوز تصمیم نگرفتم بیرون برم یا نه، پشت کاناپه قایم می‌شم تا با اسباب‌بازی پرزدارم بازی کنم. لیزر قرمز را دنبال می‌کنم. گوش‌های خودم را می‌خورم، ماهی روی زمین می‌خورم، گلوله مویی در کاسه غذایم می‌اندازم و از صاحبم غذای جدید طلب می‌کنم، صبح‌ها صورتم رو با پنجه‌هایم نوازش می‌کنم تا بیدار شوی.</p>`,
+    content: `<h5>بررسی پروژه</h5><p>گیاهان گاز می‌گیرند تا پرندگان را از مزاحمت برای ذرت بازدارند و مثل یک گربه نینجا عمل کنند و از این کار لذت ببرند، همه جا حضور دارند و مزاحمت می‌کنند، تمام روز روی جعبه خاک خود رنگین‌کمان درست می‌کنند، روی سر انسان‌ها می‌خوابند و از سگ‌ها نفرت دارند، به موش حمله می‌کنند، نخ می‌خورند و روی بالش بالا می‌آورند. عاشق حمام نیستند، و همه چیز را دوست ندارند. در اطراف خانه مدفوع می‌کنند، سگ را دنبال می‌کنند و فرار می‌کنند، اما وقتی نوازش‌شان کنی، نه آنجا، اینجا باید نوازش کنی،</p><h5>درباره‌ی مشتری</h5><p>لیسیدن خود. زیر تخت یا با خرخر یا حمله مثل یک هیولا و سپس ناگهان شروع به دویدن سریع در سراسر خانه بدون هیچ دلیل خاصی می‌کنند. در ساعت ۴ صبح جیغ می‌زنند یا به پا می‌چسبند و میومیو می‌کنند. گربه روی درخت گیر می‌کند، آتش‌نشان‌ها سعی می‌کنند گربه را پایین بیاورند، اما آتش‌نشان‌ها هم گیر می‌کنند، گربه دمپایی‌های آتش‌نشان‌ها را می‌خورد، در خانه می‌دود، از پله‌ها بالا و پایین می‌رود تا اشباح را دنبال کند، روی گوشی شما می‌خوابد و خرخرهای بامزه می‌کند، جوراب را بو می‌کند و با دهان نیمه باز راه می‌رود، در جعبه می‌نشیند، دیوارها را بو می‌کند، انگار صبحانه خورده است. گلوله مویی بالا می‌آورد، گربه کوچک و بامزه.</p><ul><li>چی شد؟ چیزی مشکوک به نظر می‌رسد. سرش را به ما می‌مالد و مدام گریه می‌کند، مگر اینکه نوازشش کنیم، و شاید هم برای سرگرمی گریه کند. تقاضا می‌کند که از هر چه انسان می‌پزد، به او بدهیم، سپس آن را بو می‌کند و دور می‌شود، پرده را لیس می‌زند فقط برای اذیت کردن، در باز می‌شود! چقدر هیجان‌انگیز! اوه، تویی، بی‌اهمیت. از روی میز می‌پرد، ماهی می‌خورد، بشقاب را از روی میز پرت می‌کند، سرش را می‌کوبد، نمی‌تواند از بشقاب خودش بخورد، به دمم دست بزنی، دستت را پاره می‌کنم. میومیو.</li><li>به سمت شخصی غافل حمله می‌کند، بلندترین صدای خرخر را در می‌آورد، همه چیز را از روی میز پرت می‌کند، اما پنجه‌هایش را روی شکم انسان کشیده و مانند ماشین چمن‌زنی خرخر می‌کند و درخواست نوازش می‌کند. گربه‌ها موجودات خاصی هستند، بنابراین نخ‌های آویزان را می‌لیسند، روی زمین می‌لغزند، به دیوار برخورد می‌کنند.</li><li>میومیو، تو صاحب منی، پس این موش مرده رو بگیر. از ظاهر ناگهانی خیار ترسید و حیوانات مرده را به عنوان هدیه گذاشت. گربه روی کاناپه می‌پرد، خرخر می‌کند و در دنیای جدیدی پر از خاک گربه بیدار می‌شود. میومیو، خوشمزه، کلی گربه دیگر اینجا هستند و در حال خوردن کت‌نیپ هستند.</li></ul><img src="/img/others/article-img-1.jpg" alt="" /><h5>اهداف</h5><p>پاداش به انسان انتخاب شده با یک پلک آرام، به طوری که مقداری کرک به چشم صاحب برسد و روی انسان بنشیند. بوی علف می‌دهد و سپس گربه‌ها دنیا را تسخیر می‌کنند، اما به چراغ سقف خیره می‌شوند، دماغ گربه دیگر را بو می‌کنند و دهان‌شان نیمه باز می‌ماند. ۴ ساعت نظافت - تیک، ۱۸ ساعت خواب زیبایی - تیک، بقیه روز بی‌نقص - تیک، همه جا مو می‌ریزند، پاهایت را گاز می‌گیرند، نقطه قرمز را دنبال می‌کنند، گلوله مویی، کت‌نیپ، علف می‌خورند، با سرعت تمام بالا و پایین می‌روند. گربه‌ها موجودات عجیبی هستند.</p><h5>نیازمندی‌ها</h5><p>شکم نرم و پنجه‌های کوچک، نه، نمی‌تونی در رو ببندی، هنوز تصمیم نگرفتم بیرون برم یا نه، پشت کاناپه قایم می‌شم تا با اسباب‌بازی پرزدارم بازی کنم. لیزر قرمز را دنبال می‌کنم. گوش‌های خودم را می‌خورم، ماهی روی زمین می‌خورم، گلوله مویی در کاسه غذایم می‌اندازم و از صاحبم غذای جدید طلب می‌کنم، صبح‌ها صورتم رو با پنجه‌هایم نوازش می‌کنم تا بیدار شوی.</p>`,
     activities: [],
     members: [],
     tasks: [],
@@ -9,11 +9,11 @@ export const projectDetailsData = {
         clientName: 'Acme Agency inc',
         skateHolder: {
             name: 'Jeremiah Minsk',
-            img: '/admin-panel/img/avatars/thumb-2.jpg',
+            img: '/img/avatars/thumb-2.jpg',
         },
         projectManager: {
             name: 'Max Alexander',
-            img: '/admin-panel/img/avatars/thumb-3.jpg',
+            img: '/img/avatars/thumb-3.jpg',
         },
     },
     schedule: {
@@ -39,11 +39,11 @@ export const projectListData = [
         member: [
             {
                 name: 'روبرتا هورتون',
-                img: '/admin-panel/img/avatars/thumb-8.jpg',
+                img: '/img/avatars/thumb-8.jpg',
             },
             {
                 name: 'یوجین استوارت',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
         ],
     },
@@ -61,7 +61,7 @@ export const projectListData = [
         member: [
             {
                 name: 'Angelina Gotelli',
-                img: '/admin-panel/img/avatars/thumb-1.jpg',
+                img: '/img/avatars/thumb-1.jpg',
             },
         ],
     },
@@ -79,11 +79,11 @@ export const projectListData = [
         member: [
             {
                 name: 'مکس الکساندر',
-                img: '/admin-panel/img/avatars/thumb-3.jpg',
+                img: '/img/avatars/thumb-3.jpg',
             },
             {
                 name: 'کامیلا سیمونز',
-                img: '/admin-panel/img/avatars/thumb-9.jpg',
+                img: '/img/avatars/thumb-9.jpg',
             },
         ],
     },
@@ -101,23 +101,23 @@ export const projectListData = [
         member: [
             {
                 name: 'ارل مایلز',
-                img: '/admin-panel/img/avatars/thumb-10.jpg',
+                img: '/img/avatars/thumb-10.jpg',
             },
             {
                 name: 'روبرتا هورتون',
-                img: '/admin-panel/img/avatars/thumb-8.jpg',
+                img: '/img/avatars/thumb-8.jpg',
             },
             {
                 name: 'آرلین پیرس',
-                img: '/admin-panel/img/avatars/thumb-6.jpg',
+                img: '/img/avatars/thumb-6.jpg',
             },
             {
                 name: 'استیو ساتون',
-                img: '/admin-panel/img/avatars/thumb-11.jpg',
+                img: '/img/avatars/thumb-11.jpg',
             },
             {
                 name: 'آلوین مورنو',
-                img: '/admin-panel/img/avatars/thumb-14.jpg',
+                img: '/img/avatars/thumb-14.jpg',
             },
         ],
     },
@@ -135,7 +135,7 @@ export const projectListData = [
         member: [
             {
                 name: 'استیو ساتون',
-                img: '/admin-panel/img/avatars/thumb-11.jpg',
+                img: '/img/avatars/thumb-11.jpg',
             },
         ],
     },
@@ -153,7 +153,7 @@ export const projectListData = [
         member: [
             {
                 name: 'میریام هررا',
-                img: '/admin-panel/img/avatars/thumb-12.jpg',
+                img: '/img/avatars/thumb-12.jpg',
             },
         ],
     },
@@ -171,11 +171,11 @@ export const projectListData = [
         member: [
             {
                 name: 'شانون بیکر',
-                img: '/admin-panel/img/avatars/thumb-4.jpg',
+                img: '/img/avatars/thumb-4.jpg',
             },
             {
                 name: 'جسیکا ولز',
-                img: '/admin-panel/img/avatars/thumb-8.jpg',
+                img: '/img/avatars/thumb-8.jpg',
             },
         ],
     },
@@ -193,11 +193,11 @@ export const projectListData = [
         member: [
             {
                 name: 'Angelina Gotelli',
-                img: '/admin-panel/img/avatars/thumb-1.jpg',
+                img: '/img/avatars/thumb-1.jpg',
             },
             {
                 name: 'روبرتا هورتون',
-                img: '/admin-panel/img/avatars/thumb-7.jpg',
+                img: '/img/avatars/thumb-7.jpg',
             },
         ],
     },
@@ -215,11 +215,11 @@ export const projectListData = [
         member: [
             {
                 name: 'کاساندرا موری',
-                img: '/admin-panel/img/avatars/thumb-13.jpg',
+                img: '/img/avatars/thumb-13.jpg',
             },
             {
                 name: 'جکی سوتو',
-                img: '/admin-panel/img/avatars/thumb-15.jpg',
+                img: '/img/avatars/thumb-15.jpg',
             },
         ],
     },
@@ -231,25 +231,25 @@ const toBeProcessCards = [
         name: 'عدم توانایی در بارگذاری فایل',
         description:
             'مهمانی هنری پایدار هشتگ سنستر ۳ گرگ ماه لبه زنده پورتلند افال پاکسازی استاد مختل ویروسی تاکوهای پالو سانتو. افال سیرچا شما احتمالاً از آنها نشنیده‌اید ویرچوال گلاسیه.',
-        cover: '/admin-panel/img/others/img-13.jpg',
+        cover: '/img/others/img-13.jpg',
         members: [
             {
                 id: '1',
                 name: 'Angelina Gotelli',
                 email: 'eileen_h@hotmail.com',
-                img: '/admin-panel/img/avatars/thumb-1.jpg',
+                img: '/img/avatars/thumb-1.jpg',
             },
             {
                 id: '2',
                 name: 'جرمایا مینسک',
                 email: '',
-                img: '/admin-panel/img/avatars/thumb-2.jpg',
+                img: '/img/avatars/thumb-2.jpg',
             },
             {
                 id: '3',
                 name: 'مکس الکساندر',
                 email: 'ronnie_vergas@infotech.io',
-                img: '/admin-panel/img/avatars/thumb-3.jpg',
+                img: '/img/avatars/thumb-3.jpg',
             },
         ],
         labels: ['وظیفه', 'مسئله زنده'],
@@ -257,13 +257,13 @@ const toBeProcessCards = [
             {
                 id: 'jubuK7XGp3',
                 name: 'mail.jpg',
-                src: '/admin-panel/img/others/img-13.jpg',
+                src: '/img/others/img-13.jpg',
                 size: '36.1kb',
             },
             {
                 id: 'xsb3HCejCM',
                 name: 'mail.jpg',
-                src: '/admin-panel/img/others/img-14.jpg',
+                src: '/img/others/img-14.jpg',
                 size: '55.9kb',
             },
         ],
@@ -271,7 +271,7 @@ const toBeProcessCards = [
             {
                 id: 'R22TqMkACm',
                 name: 'کامیلا سیمونز',
-                src: '/admin-panel/img/avatars/thumb-9.jpg',
+                src: '/img/avatars/thumb-9.jpg',
                 message:
                     'من بچه کیچ پشمی سبیل، قصاب ویلیامزبرگ بدون گلوتن ۳ گرگ ماه کینوا اصیل سلوِیج کناوسگارد یونیکورن هستم. پالو سانتو ویروسی حمل روزانه، تامبلر ارثی جین خام سال ایسلند ویفرهای قهوه تک‌منشأ کیف دستی شوریدچ نان ابری پوک.',
                 date: new Date(y, 4, 20),
@@ -291,7 +291,7 @@ const toBeProcessCards = [
                 id: '8',
                 name: 'جسیکا ولز',
                 email: 'iamfred@imaze.infotech.io',
-                img: '/admin-panel/img/avatars/thumb-8.jpg',
+                img: '/img/avatars/thumb-8.jpg',
             },
         ],
         labels: ['اشکال'],
@@ -300,7 +300,7 @@ const toBeProcessCards = [
             {
                 id: 'Wx8FDSsVTg',
                 name: 'آرلین پیرس',
-                src: '/admin-panel/img/avatars/thumb-6.jpg',
+                src: '/img/avatars/thumb-6.jpg',
                 message:
                     'هلفتیکا ۸-بیت فوتوبوث تامبلر کامیون غذا. پین مینای دندان گرگ شلوغ سارتوریال، برانچ شوریدچ اسکیت‌بورد ریش هلفتیکا. تایپ‌نویس گاستروپاب سفارشی.',
                 date: new Date(y, 4, 20),
@@ -308,7 +308,7 @@ const toBeProcessCards = [
             {
                 id: '3AhkqqSFFr',
                 name: 'مکس الکساندر',
-                src: '/admin-panel/img/avatars/thumb-3.jpg',
+                src: '/img/avatars/thumb-3.jpg',
                 message:
                     'اف تراست فاند مگینگز، مدیتیشن چیچارونز برانچ گرگ ناروال شوریدچ هرچه حقوق دوچرخه رمپ‌ها.',
                 date: new Date(y, 4, 20),
@@ -327,13 +327,13 @@ const toBeProcessCards = [
                 id: '13',
                 name: 'کاساندرا موری',
                 email: 'leeWheeler@infotech.io',
-                img: '/admin-panel/img/avatars/thumb-13.jpg',
+                img: '/img/avatars/thumb-13.jpg',
             },
             {
                 id: '5',
                 name: 'یوجین استوارت',
                 email: 'joyce991@infotech.io',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
         ],
         labels: ['اولویت پایین'],
@@ -342,7 +342,7 @@ const toBeProcessCards = [
             {
                 id: 'bAvBdtKHNC',
                 name: 'استیو ساتون',
-                src: '/admin-panel/img/avatars/thumb-11.jpg',
+                src: '/img/avatars/thumb-11.jpg',
                 message:
                     'هلفتیکا ۸-بیت فوتوبوث تامبلر کامیون غذا. پین مینای دندان گرگ شلوغ سارتوریال، برانچ شوریدچ اسکیت‌بورد ریش هلفتیکا. تایپ‌نویس گاستروپاب سفارشی.',
                 date: new Date(y, 4, 20),
@@ -365,13 +365,13 @@ const processingCards = [
                 id: '2',
                 name: 'جرمایا مینسک',
                 email: '',
-                img: '/admin-panel/img/avatars/thumb-2.jpg',
+                img: '/img/avatars/thumb-2.jpg',
             },
             {
                 id: '8',
                 name: 'جسیکا ولز',
                 email: 'iamfred@imaze.infotech.io',
-                img: '/admin-panel/img/avatars/thumb-8.jpg',
+                img: '/img/avatars/thumb-8.jpg',
             },
         ],
         labels: ['اشکال'],
@@ -380,7 +380,7 @@ const processingCards = [
             {
                 id: 'afPugkEmkp',
                 name: 'Angelina Gotelli',
-                src: '/admin-panel/img/avatars/thumb-1.jpg',
+                src: '/img/avatars/thumb-1.jpg',
                 message: '',
                 date: new Date(y, 5, 16),
             },
@@ -399,7 +399,7 @@ const processingCards = [
                 id: '10',
                 name: 'ارل مایلز',
                 email: 'brittany1134@gmail.com',
-                img: '/admin-panel/img/avatars/thumb-10.jpg',
+                img: '/img/avatars/thumb-10.jpg',
             },
         ],
         labels: ['وظیفه'],
@@ -407,7 +407,7 @@ const processingCards = [
             {
                 id: 'NjHJhHeWrG',
                 name: 'issue.jpg',
-                src: '/admin-panel/img/others/img-16.jpg',
+                src: '/img/others/img-16.jpg',
                 size: '46.1kb',
             },
         ],
@@ -415,7 +415,7 @@ const processingCards = [
             {
                 id: 'MAsPDzGwnA',
                 name: 'مکس الکساندر',
-                src: '/admin-panel/img/avatars/thumb-3.jpg',
+                src: '/img/avatars/thumb-3.jpg',
                 message:
                     'اف تراست فاند مگینگز، مدیتیشن چیچارونز برانچ ولف نروال شوریدچ هرچه حقوق دوچرخه رمپ‌ها.',
                 date: new Date(y, 4, 20),
@@ -435,7 +435,7 @@ const processingCards = [
                 id: '6',
                 name: 'آرلین پیرس',
                 email: 'samanthaphil@infotech.io',
-                img: '/admin-panel/img/avatars/thumb-6.jpg',
+                img: '/img/avatars/thumb-6.jpg',
             },
         ],
         labels: ['اولویت پایین', 'وظیفه'],
@@ -458,7 +458,7 @@ const submittedCards = [
                 id: '3',
                 name: 'مکس الکساندر',
                 email: 'ronnie_vergas@infotech.io',
-                img: '/admin-panel/img/avatars/thumb-3.jpg',
+                img: '/img/avatars/thumb-3.jpg',
             },
         ],
         labels: ['اولویت پایین'],
@@ -467,7 +467,7 @@ const submittedCards = [
             {
                 id: 'nBAGhJqe9v',
                 name: 'مکس الکساندر',
-                src: '/admin-panel/img/avatars/thumb-3.jpg',
+                src: '/img/avatars/thumb-3.jpg',
                 message: '',
                 date: new Date(y, 1, 8),
             },
@@ -480,19 +480,19 @@ const submittedCards = [
         name: 'حذف داده‌های کاربر',
         description:
             'صلیب پولاروید مرغ داغ نامتقارن گرگ هلوتیکا کیتار مد تبر رمپ‌های یوولو ویفرهای 90s.',
-        cover: '/admin-panel/img/others/img-15.jpg',
+        cover: '/img/others/img-15.jpg',
         members: [
             {
                 id: '9',
                 name: 'کامیلا سیمونز',
                 email: 'carolyn_h@gmail.com',
-                img: '/admin-panel/img/avatars/thumb-9.jpg',
+                img: '/img/avatars/thumb-9.jpg',
             },
             {
                 id: '10',
                 name: 'ارل مایلز',
                 email: 'brittany1134@gmail.com',
-                img: '/admin-panel/img/avatars/thumb-10.jpg',
+                img: '/img/avatars/thumb-10.jpg',
             },
         ],
         labels: ['مسئله زنده'],
@@ -500,7 +500,7 @@ const submittedCards = [
             {
                 id: 'NjHJhHeWrG',
                 name: 'issue.jpg',
-                src: '/admin-panel/img/others/img-15.jpg',
+                src: '/img/others/img-15.jpg',
                 size: '42.6kb',
             },
         ],
@@ -508,7 +508,7 @@ const submittedCards = [
             {
                 id: 'nBAGhJqe9v',
                 name: 'مکس الکساندر',
-                src: '/admin-panel/img/avatars/thumb-3.jpg',
+                src: '/img/avatars/thumb-3.jpg',
                 message:
                     'لورم خالد ایپسوم یک کلید اصلی برای موفقیت است. کلید این است که هر کلیدی را داشته باشید، کلید باز کردن هر در. من در حال انجام کاری هستم. زندگی چیزی است که شما از آن می‌سازید، پس بیایید آن را بسازیم.',
                 date: new Date(y, 1, 8),
@@ -531,13 +531,13 @@ const completedCards = [
                 id: '13',
                 name: 'کاساندرا موری',
                 email: 'leeWheeler@infotech.io',
-                img: '/admin-panel/img/avatars/thumb-13.jpg',
+                img: '/img/avatars/thumb-13.jpg',
             },
             {
                 id: '9',
                 name: 'کامیلا سیمونز',
                 email: 'carolyn_h@gmail.com',
-                img: '/admin-panel/img/avatars/thumb-9.jpg',
+                img: '/img/avatars/thumb-9.jpg',
             },
         ],
         labels: ['وظیفه'],
@@ -546,7 +546,7 @@ const completedCards = [
             {
                 id: 'yxc5gwrXUZ',
                 name: 'مکس الکساندر',
-                src: '/admin-panel/img/avatars/thumb-3.jpg',
+                src: '/img/avatars/thumb-3.jpg',
                 message:
                     'نوآوری واقعی اغلب از استارتاپ کوچک می‌آید که به اندازه کافی لاغر است تا یک بازار را راه‌اندازی کند اما فاقد قدرت برای مالکیت آن است.',
                 date: new Date(y, 3, 4),
@@ -566,19 +566,19 @@ const completedCards = [
                 id: '5',
                 name: 'یوجین استوارت',
                 email: 'joyce991@infotech.io',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
             {
                 id: '6',
                 name: 'آرلین پیرس',
                 email: 'samanthaphil@infotech.io',
-                img: '/admin-panel/img/avatars/thumb-6.jpg',
+                img: '/img/avatars/thumb-6.jpg',
             },
             {
                 id: '7',
                 name: 'روبرتا هورتون',
                 email: 'taratarara@imaze.edu.du',
-                img: '/admin-panel/img/avatars/thumb-7.jpg',
+                img: '/img/avatars/thumb-7.jpg',
             },
         ],
         labels: ['باگ'],
@@ -598,7 +598,7 @@ const completedCards = [
                 id: '4',
                 name: 'شانون بیکر',
                 email: 'cookie_lukie@hotmail.com',
-                img: '/admin-panel/img/avatars/thumb-4.jpg',
+                img: '/img/avatars/thumb-4.jpg',
             },
         ],
         labels: ['مسئله زنده'],
@@ -618,13 +618,13 @@ const completedCards = [
                 id: '5',
                 name: 'یوجین استوارت',
                 email: 'joyce991@infotech.io',
-                img: '/admin-panel/img/avatars/thumb-5.jpg',
+                img: '/img/avatars/thumb-5.jpg',
             },
             {
                 id: '3',
                 name: 'مکس الکساندر',
                 email: 'ronnie_vergas@infotech.io',
-                img: '/admin-panel/img/avatars/thumb-3.jpg',
+                img: '/img/avatars/thumb-3.jpg',
             },
         ],
         labels: ['اولویت پایین'],
@@ -633,7 +633,7 @@ const completedCards = [
             {
                 id: 'dNskbPFeQD',
                 name: 'مکس الکساندر',
-                src: '/admin-panel/img/avatars/thumb-3.jpg',
+                src: '/img/avatars/thumb-3.jpg',
                 message:
                     'اف تراست فاند مگینگز، مدیتیشن چیچارونز برانچ ولف نروال شوریدچ هرچه حقوق دوچرخه رمپ‌ها.',
                 date: new Date(y, 4, 20),
@@ -641,7 +641,7 @@ const completedCards = [
             {
                 id: 'qNzkmRZiTO',
                 name: 'جرمایا مینسک',
-                src: '/admin-panel/img/avatars/thumb-2.jpg',
+                src: '/img/avatars/thumb-2.jpg',
                 message: 'توجه شد!',
                 date: new Date(y, 4, 20),
             },
@@ -669,13 +669,13 @@ export const issueData = {
             id: '2',
             name: 'Jeremiah Minsk',
             email: 'terrance_moreno@infotech.io',
-            img: '/admin-panel/img/avatars/thumb-2.jpg',
+            img: '/img/avatars/thumb-2.jpg',
         },
         {
             id: '3',
             name: 'Max Alexander',
             email: 'ronnie_vergas@infotech.io',
-            img: '/admin-panel/img/avatars/thumb-3.jpg',
+            img: '/img/avatars/thumb-3.jpg',
         },
     ],
     labels: [
@@ -692,7 +692,7 @@ export const issueData = {
         {
             id: 'Wx8FDSsVTg',
             name: 'Arlene Pierce',
-            src: '/admin-panel/img/avatars/thumb-6.jpg',
+            src: '/img/avatars/thumb-6.jpg',
             message:
                 'کامیون مواد غذایی تامبلر غرفه 8 بیتی هلوتیکا. مینای سنجاق گرگ ژولیده sartorial، برانچ shoreditch اسکیت بورد ریش helvetica. ماشین تحریر شطرنجی gastropub سفارشی.',
             date: new Date(y, 4, 20),
@@ -700,7 +700,7 @@ export const issueData = {
         {
             id: '3AhkqqSFFr',
             name: 'Roberta Horton',
-            src: '/admin-panel/img/avatars/thumb-7.jpg',
+            src: '/img/avatars/thumb-7.jpg',
             message:
                 '<strong>@Angelina</strong> یکی از دلایل اصلی سقوط امپراتوری روم این بود که -عدم صفر- آنها راهی برای نشان دادن پایان موفقیت آمیز برنامه های C خود نداشتند. ',
             date: new Date(y, 4, 20),
@@ -710,13 +710,13 @@ export const issueData = {
         {
             id: 'jubuK7XGp3',
             name: 'mail.jpg',
-            src: '/admin-panel/img/others/img-13.jpg',
+            src: '/img/others/img-13.jpg',
             size: '36.1kb',
         },
         {
             id: 'NjHJhHeWrG',
             name: 'issue.jpg',
-            src: '/admin-panel/img/others/img-16.jpg',
+            src: '/img/others/img-16.jpg',
             size: '46.1kb',
         },
     ],
@@ -733,7 +733,7 @@ export const issueData = {
             type: 'COMMENT',
             dateTime: 1646578417,
             userName: 'Arlene Pierce',
-            userImg: '/admin-panel/img/avatars/thumb-1.jpg',
+            userImg: '/img/avatars/thumb-1.jpg',
             comment: `کامیون مواد غذایی تامبلر غرفه 8 بیتی هلوتیکا. مینای سنجاق گرگ ژولیده sartorial، برانچ shoreditch اسکیت بورد ریش helvetica. ماشین تحریر شطرنجی gastropub سفارشی.`,
         },
         {
@@ -753,7 +753,7 @@ export const issueData = {
             type: 'COMMENT-MENTION',
             dateTime: 1646565473,
             userName: 'Roberta Horton',
-            userImg: '/admin-panel/img/avatars/thumb-7.jpg',
+            userImg: '/img/avatars/thumb-7.jpg',
             comment: `<strong>@Angelina</strong> یکی از دلایل اصلی سقوط امپراتوری روم این بود که -عدم صفر- آنها راهی برای نشان دادن پایان موفقیت آمیز برنامه های C خود نداشتند.`,
         },
         {
@@ -783,7 +783,7 @@ export const taskBugFix = [
         priority: 'بالا',
         assignee: {
             name: 'جسیکا ولز',
-            img: '/admin-panel/img/avatars/thumb-8.jpg',
+            img: '/img/avatars/thumb-8.jpg',
         },
     },
     {
@@ -795,7 +795,7 @@ export const taskBugFix = [
         priority: 'متوسط',
         assignee: {
             name: 'جرمایاه مینسک',
-            img: '/admin-panel/img/avatars/thumb-2.jpg',
+            img: '/img/avatars/thumb-2.jpg',
         },
     },
     {
@@ -807,7 +807,7 @@ export const taskBugFix = [
         priority: 'بالا',
         assignee: {
             name: 'ارل مایلز',
-            img: '/admin-panel/img/avatars/thumb-10.jpg',
+            img: '/img/avatars/thumb-10.jpg',
         },
     },
     {
@@ -819,7 +819,7 @@ export const taskBugFix = [
         priority: 'بالا',
         assignee: {
             name: 'مکس الکساندر',
-            img: '/admin-panel/img/avatars/thumb-3.jpg',
+            img: '/img/avatars/thumb-3.jpg',
         },
     },
     {
@@ -831,7 +831,7 @@ export const taskBugFix = [
         priority: 'متوسط',
         assignee: {
             name: 'Angelina Gotelli',
-            img: '/admin-panel/img/avatars/thumb-1.jpg',
+            img: '/img/avatars/thumb-1.jpg',
         },
     },
 ]
@@ -846,7 +846,7 @@ export const taskDevelopment = [
         priority: 'متوسط',
         assignee: {
             name: 'Jeremiah Minsk',
-            img: '/admin-panel/img/avatars/thumb-2.jpg',
+            img: '/img/avatars/thumb-2.jpg',
         },
     },
     {
@@ -858,7 +858,7 @@ export const taskDevelopment = [
         priority: 'پایین',
         assignee: {
             name: 'Jeremiah Minsk',
-            img: '/admin-panel/img/avatars/thumb-2.jpg',
+            img: '/img/avatars/thumb-2.jpg',
         },
     },
     {
@@ -870,7 +870,7 @@ export const taskDevelopment = [
         priority: 'بالا',
         assignee: {
             name: 'Max Alexander',
-            img: '/admin-panel/img/avatars/thumb-3.jpg',
+            img: '/img/avatars/thumb-3.jpg',
         },
     },
     {
@@ -882,7 +882,7 @@ export const taskDevelopment = [
         priority: 'متوسط',
         assignee: {
             name: 'Arlene Pierce',
-            img: '/admin-panel/img/avatars/thumb-6.jpg',
+            img: '/img/avatars/thumb-6.jpg',
         },
     },
 ]
@@ -897,7 +897,7 @@ export const taskUiUx = [
         priority: 'بالا',
         assignee: {
             name: 'Jeremiah Minsk',
-            img: '/admin-panel/img/avatars/thumb-2.jpg',
+            img: '/img/avatars/thumb-2.jpg',
         },
     },
     {
@@ -909,7 +909,7 @@ export const taskUiUx = [
         priority: 'متوسط',
         assignee: {
             name: 'Arlene Pierce',
-            img: '/admin-panel/img/avatars/thumb-6.jpg',
+            img: '/img/avatars/thumb-6.jpg',
         },
     },
     {
@@ -921,7 +921,7 @@ export const taskUiUx = [
         priority: 'پایین',
         assignee: {
             name: 'Angelina Gotelli',
-            img: '/admin-panel/img/avatars/thumb-1.jpg',
+            img: '/img/avatars/thumb-1.jpg',
         },
     },
 ]
@@ -936,7 +936,7 @@ export const taskPlaning = [
         priority: 'بالا',
         assignee: {
             name: 'Jeremiah Minsk',
-            img: '/admin-panel/img/avatars/thumb-2.jpg',
+            img: '/img/avatars/thumb-2.jpg',
         },
     },
     {
@@ -948,7 +948,7 @@ export const taskPlaning = [
         priority: 'متوسط',
         assignee: {
             name: 'Arlene Pierce',
-            img: '/admin-panel/img/avatars/thumb-6.jpg',
+            img: '/img/avatars/thumb-6.jpg',
         },
     },
     {
@@ -960,7 +960,7 @@ export const taskPlaning = [
         priority: 'پایین',
         assignee: {
             name: 'Angelina Gotelli',
-            img: '/admin-panel/img/avatars/thumb-1.jpg',
+            img: '/img/avatars/thumb-1.jpg',
         },
     },
 ]

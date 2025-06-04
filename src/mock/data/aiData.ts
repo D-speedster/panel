@@ -10,7 +10,7 @@ export const chatHistoryData = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content:
                     'من فردا یک عکاسی دارم. آیا می‌توانید چند رنگ و گزینه لباس که در دوربین خوب به نظر می‌رسند را به من توصیه کنید؟',
@@ -23,7 +23,7 @@ export const chatHistoryData = [
                 sender: {
                     id: 'ai',
                     name: 'چت AI',
-                    avatarImageUrl: '/admin-panel/img/thumbs/ai.jpg',
+                    avatarImageUrl: '/img/thumbs/ai.jpg',
                 },
                 content:
                     'مطمئناً! در اینجا چند پیشنهاد رنگ و لباس که معمولاً در عکاسی‌ها خوب به نظر می‌رسند آورده شده است:\n\n1. رنگ‌های جواهر مانند سبز زمردی، آبی سلطنتی و قرمز یاقوتی همیشه در عکس‌ها خوب به نظر می‌رسند و می‌توانند شما را در عکس برجسته کنند.\n\n2. رنگ‌های خنثی مانند سیاه، سفید، خاکستری و نود می‌توانند یک ظاهر کلاسیک و بی‌زمان در عکس‌ها ایجاد کنند.\n\n3. الگوهایی مانند راه‌راه، نقطه‌نقطه یا گل‌ها می‌توانند به لباس شما جذابیت بصری اضافه کنند بدون اینکه تصویر را تحت‌الشعاع قرار دهند.\n\n4. از پوشیدن الگوهای شلوغ یا لوگوها خودداری کنید زیرا می‌توانند در عکس‌ها حواس‌پرتی ایجاد کنند.\n\n5. در نظر بگیرید که لباس‌های فرم‌دار بپوشید که شکل بدن شما را تحسین کنند، اما همچنین به شما اجازه دهند در طول عکاسی راحت حرکت کنید.\n\n6. لایه‌بندی بافت‌ها و پارچه‌های مختلف می‌تواند به لباس شما در عکس‌ها عمق و بعد اضافه کند.\n\nبه یاد داشته باشید که رنگ‌ها و لباس‌هایی را انتخاب کنید که به شما اعتماد به نفس و راحتی می‌دهند، زیرا این امر در نهایت در دوربین به خوبی ترجمه خواهد شد. موفق باشید در عکاسی!',
@@ -47,7 +47,7 @@ export const chatHistoryData = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `من در حال برنامه‌ریزی یک سفر به اروپا در تابستان آینده هستم. آیا می‌توانید به من در تهیه یک برنامه سفر کمک کنید؟`,
                 timestamp: 1723430400,
@@ -59,7 +59,7 @@ export const chatHistoryData = [
                 sender: {
                     id: 'ai',
                     name: 'چت AI',
-                    avatarImageUrl: '/admin-panel/img/thumbs/ai.jpg',
+                    avatarImageUrl: '/img/thumbs/ai.jpg',
                 },
                 content:
                     'البته! اروپا یک قاره وسیع و متنوع است که چیزهای زیادی برای ارائه دارد. برای ایجاد یک برنامه سفر شخصی‌سازی شده برای شما، به اطلاعات بیشتری نیاز دارم. \n\n- مدت زمان سفر شما چقدر است؟\n- کدام کشورها یا شهرها بیشتر مورد علاقه شما هستند؟\n- علایق و ترجیحات شما چیست (مثلاً تاریخ، غذا، فعالیت‌های بیرونی)؟\n- بودجه شما برای سفر چقدر است؟\n\nپس از دریافت این اطلاعات، می‌توانم یک برنامه سفر دقیق برای شما پیشنهاد دهم که شامل حمل و نقل، اقامت، فعالیت‌ها و دیدنی‌های ضروری باشد. لطفاً ترجیحات خود را به من بگویید تا بتوانم به شما در برنامه‌ریزی یک سفر به یادماندنی به اروپا کمک کنم!',
@@ -72,7 +72,7 @@ export const chatHistoryData = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `حدود 2 هفته است`,
                 timestamp: 1723430400,
@@ -84,7 +84,7 @@ export const chatHistoryData = [
                 sender: {
                     id: 'ai',
                     name: 'چت AI',
-                    avatarImageUrl: '/admin-panel/img/thumbs/ai.jpg',
+                    avatarImageUrl: '/img/thumbs/ai.jpg',
                 },
                 content: `در اینجا یک برنامه سفر نمونه 2 هفته‌ای برای یک سفر به اروپا آورده شده است:\n\nروز 1-3: لندن، انگلستان\n- بازدید از نقاط دیدنی معروف مانند بیگ بن، کاخ باکینگهام و برج لندن\n- کاوش در موزه بریتانیا و سوار شدن بر چرخ و فلک لندن\n- لذت بردن از یک چای عصرانه سنتی انگلیسی\n\nروز 4-6: پاریس، فرانسه\n- بازدید از برج ایفل، موزه لوور و کلیسای نوتردام\n- قدم زدن در کنار رود سن و کاوش در مونمارتر\n- لذت بردن از یک کروسانت در یک کافه محلی پاریسی\n\nروز 7-9: رم، ایتالیا\n- بازدید از کولوسئوم، فروم رومی و واتیکان\n- کاوش در محله‌های تاریخی تراستوره و تستاکیو\n- لذت بردن از پاستای اصیل ایتالیایی و ژلاتو\n\nروز 10-12: بارسلونا، اسپانیا\n- بازدید از نقاط دیدنی معروف گائودی از جمله ساگرادا فامیلیا و پارک گوئل\n- کاوش در محله گوتیک و استراحت در سواحل شنی\n- لذت بردن از تاپاس و نوشیدن سانگریا در یک بودگا محلی\n\nروز 13-14: آمستردام، هلند\n- کاوش در کانال‌های تاریخی و بازدید از خانه آنه فرانک\n- بازدید از موزه ون گوگ و دوچرخه‌سواری در اطراف شهر\n- لذت بردن از یک کروز کانال و امتحان کردن وافل‌های سنتی هلندی\n\nاین برنامه سفر شامل برخی از محبوب‌ترین شهرهای اروپا است و به شما طعم فرهنگ هر کشور را می‌دهد. احساس راحتی کنید که آن را برای بهتر شدن با علایق و سبک سفر خود سفارشی کنید. سفر فوق‌العاده‌ای داشته باشید!`,
                 timestamp: 1723430400,
@@ -107,7 +107,7 @@ export const chatHistoryData = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `آیا می‌توانید چند دستور شام سالم که سریع آماده می‌شوند را پیشنهاد دهید؟`,
                 timestamp: 1723430400,
@@ -119,7 +119,7 @@ export const chatHistoryData = [
                 sender: {
                     id: 'ai',
                     name: 'چت AI',
-                    avatarImageUrl: '/admin-panel/img/thumbs/ai.jpg',
+                    avatarImageUrl: '/img/thumbs/ai.jpg',
                 },
                 content:
                     '1. ماهی سالمون گریل شده با لیمو و گیاهان: فیله‌های سالمون را در روغن زیتون، آب لیمو، سیر و گیاهان مرینیت کنید، سپس تا پخت کامل گریل کنید. با یک طرف سبزیجات کبابی یا سالاد سبز مخلوط سرو کنید.\n\n2. تفت دادن بوقلمون و سبزیجات: بوقلمون چرخ کرده را با سبزیجات رنگارنگ مانند فلفل دلمه‌ای، بروکلی و نخود برفی در یک سس تفت دهید. برای یک وعده غذایی متعادل، روی برنج قهوه‌ای یا کینوا سرو کنید.\n\n3. کاری نخود و اسفناج: نخودها را در یک سس کاری گوجه‌فرنگی و شیر نارگیل با اسفناج بچه بپزید. با نان نان یا برنج قهوه‌ای برای یک وعده غذایی گیاهی رضایت‌بخش سرو کنید.\n\n4. نودل‌های کدو سبز با پستو و گوجه‌فرنگی گیلاسی: نودل‌های کدو سبز را با استفاده از یک اسپیرالایزر درست کنید، سپس با سس پستو خانگی یا خریداری شده و گوجه‌فرنگی گیلاسی نصف شده مخلوط کنید. برای پروتئین بیشتر، مرغ یا میگو گریل شده را اضافه کنید.\n\n5. مرغ گریل شده کاپریس: سینه‌های مرغ گریل شده را با موزارلای تازه، گوجه‌فرنگی‌های برش خورده و برگ‌های ریحان بپوشانید. با لعاب بالزامیک بپاشید و با یک طرف کینوا یا سالاد سبز مخلوط سرو کنید.\n\nاین دستورها نه تنها سریع آماده می‌شوند بلکه مغذی و خوشمزه نیز هستند. از شام سالم خود لذت ببرید!',
@@ -143,7 +143,7 @@ export const chatHistoryData = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `من به دنبال شروع یک روتین ورزشی جدید هستم. چه تمرینات موثری برای مبتدیان وجود دارد؟`,
                 timestamp: 1723430400,
@@ -155,7 +155,7 @@ export const chatHistoryData = [
                 sender: {
                     id: 'ai',
                     name: 'چت AI',
-                    avatarImageUrl: '/admin-panel/img/thumbs/ai.jpg',
+                    avatarImageUrl: '/img/thumbs/ai.jpg',
                 },
                 content: `در اینجا چند تمرین موثر برای مبتدیان آورده شده است:\n\n1. پیاده‌روی یا دویدن: با یک پیاده‌روی سریع شروع کنید و به تدریج به دویدن یا دویدن برسید.\n\n2. تمرینات وزن بدن: شامل تمریناتی مانند اسکوات، لانژ، پوش‌آپ و پلانک برای ساختن قدرت و بهبود تناسب کلی.\n\n3. یوگا: یک کلاس یوگا برای مبتدیان را امتحان کنید تا انعطاف‌پذیری، تعادل و قدرت مرکزی را بهبود بخشید.\n\n4. شنا: شنا یک تمرین کم‌تاثیر عالی است که می‌تواند به بهبود تناسب قلبی عروقی و تون عضلانی کمک کند.\n\n5. دوچرخه‌سواری: چه در فضای باز دوچرخه‌سواری کنید یا از یک دوچرخه ثابت استفاده کنید، دوچرخه‌سواری یک راه عالی برای افزایش ضربان قلب و ساختن استقامت است.\n\n6. کلاس‌های تناسب گروهی: در نظر بگیرید که یک کلاس تناسب گروهی دوستانه برای مبتدیان مانند زومبا، پیلاتس یا تمرینات دایره‌ای را بگیرید تا روتین خود را متنوع کنید و انگیزه بمانید.\n\nبه یاد داشته باشید که به آرامی شروع کنید، به بدن خود گوش دهید و در صورت داشتن هر گونه نگرانی یا شرایط پزشکی با یک حرفه‌ای تناسب مشورت کنید. موفق باشید با روتین ورزشی جدید خود!`,
                 timestamp: 1723430400,
@@ -178,7 +178,7 @@ export const chatHistoryData = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `یک تابع پایتون بنویسید که حداکثر عدد در یک لیست را پیدا کند`,
                 timestamp: 1723430400,
@@ -190,7 +190,7 @@ export const chatHistoryData = [
                 sender: {
                     id: 'ai',
                     name: 'چت AI',
-                    avatarImageUrl: '/admin-panel/img/thumbs/ai.jpg',
+                    avatarImageUrl: '/img/thumbs/ai.jpg',
                 },
                 content:
                     'مطمئناً، در اینجا یک کد نمونه در پایتون برای یافتن حداکثر عدد در یک لیست آورده شده است:\n\n```python\ndef find_max_number(nums):\n    if not nums:\n        return None\n      \n    max_num = nums[0]\n    for num in nums:\n        if num > max_num:\n            max_num = num\n\n    return max_num\n\n# تست موارد\nprint(find_max_number([1, 5, 10, 3, 8]))  # خروجی باید 10 باشد\nprint(find_max_number([-1, -5, -3, -8]))  # خروجی باید -1 باشد\nprint(find_max_number([]))  # خروجی باید None باشد\n```\n\nاین کد یک تابع `find_max_number` تعریف می‌کند که یک لیست از اعداد را به عنوان ورودی می‌گیرد و حداکثر عدد در لیست را برمی‌گرداند. این تابع حالت لبه‌ای یک لیست خالی را با برگرداندن `None` مدیریت می‌کند.',
@@ -209,7 +209,7 @@ export const imageData = [
     {
         id: '1',
         prompt: 'در حین پیک‌نیک، تصویری زیبا از آسمان با سایه‌های آبی و سرخابی، مشاهده سیارات و ستارگان خواهید دید.',
-        image: '/admin-panel/img/others/gallery/img-1.webp',
+        image: '/img/others/gallery/img-1.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 5,
@@ -217,7 +217,7 @@ export const imageData = [
     {
         id: '2',
         prompt: 'متن تیره که می‌گوید "Team LAL" با گربه‌ها و سگ‌های کارتونی در پس‌زمینه. پس‌زمینه تصویر باید کاملاً سفید باشد',
-        image: '/admin-panel/img/others/gallery/img-2.webp',
+        image: '/img/others/gallery/img-2.webp',
         ratio: '4:7',
         size: '768 x 1344 px',
         like: 0,
@@ -225,7 +225,7 @@ export const imageData = [
     {
         id: '3',
         prompt: 'گربه‌ای که در حال سیگار کشیدن و ماهیگیری در جنگل است',
-        image: '/admin-panel/img/others/gallery/img-3.webp',
+        image: '/img/others/gallery/img-3.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -233,7 +233,7 @@ export const imageData = [
     {
         id: '4',
         prompt: 'یک مرد ناظر که با کشیدن طرح، به خاطره زندگی می‌بخشد',
-        image: '/admin-panel/img/others/gallery/img-4.webp',
+        image: '/img/others/gallery/img-4.webp',
         ratio: '4:7',
         size: '768 x 1344 px',
         like: 0,
@@ -241,7 +241,7 @@ export const imageData = [
     {
         id: '5',
         prompt: 'یک کوزه شکسته در سبک این تصویر ایجاد کنید و سبک باتیک موم آفریقایی و رنگ‌آمیزی با اثرات ترک را حفظ کنید.',
-        image: '/admin-panel/img/others/gallery/img-5.webp',
+        image: '/img/others/gallery/img-5.webp',
         ratio: '4:7',
         size: '768 x 1344 px',
         like: 0,
@@ -249,7 +249,7 @@ export const imageData = [
     {
         id: '6',
         prompt: 'اسپایدرمن و بتمن با شمشیر نوری',
-        image: '/admin-panel/img/others/gallery/img-6.webp',
+        image: '/img/others/gallery/img-6.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -257,7 +257,7 @@ export const imageData = [
     {
         id: '7',
         prompt: 'برای من یک لوگو بسازید که یک گربه صورتی در آن باشد و زیر آن متن "C2" باشد',
-        image: '/admin-panel/img/others/gallery/img-7.webp',
+        image: '/img/others/gallery/img-7.webp',
         ratio: '4:7',
         size: '768 x 1344 px',
         like: 0,
@@ -265,7 +265,7 @@ export const imageData = [
     {
         id: '8',
         prompt: 'یک گربه خاکستری در کت و شلوار و یک بچه گربه در کت و شلوار قهوه‌ای در کنار او',
-        image: '/admin-panel/img/others/gallery/img-8.webp',
+        image: '/img/others/gallery/img-8.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -273,7 +273,7 @@ export const imageData = [
     {
         id: '9',
         prompt: 'یک تصویر واقعی از یک زن بلوند 30 ساله و یک مرد 30 ساله با موهای مشکی که از شادی می‌پرند ایجاد کنید',
-        image: '/admin-panel/img/others/gallery/img-9.webp',
+        image: '/img/others/gallery/img-9.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -281,7 +281,7 @@ export const imageData = [
     {
         id: '10',
         prompt: 'یک جفت گوشواره پلیمر صورتی که به صورت تخت قرار گرفته‌اند',
-        image: '/admin-panel/img/others/gallery/img-10.webp',
+        image: '/img/others/gallery/img-10.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -289,7 +289,7 @@ export const imageData = [
     {
         id: '11',
         prompt: 'علامت زودیاک قوس: یک سگ گلدن رتریور با عینک آفتابی، پیراهن، کلاه کابوی، در سیدنی استرالیا، در حال کاوش در صحرا در ظهر. سبک صفحه بارگذاری GTA (تن گرم) (ساعت طلایی)',
-        image: '/admin-panel/img/others/gallery/img-11.webp',
+        image: '/img/others/gallery/img-11.webp',
         ratio: '4:7',
         size: '768 x 1344 px',
         like: 0,
@@ -297,7 +297,7 @@ export const imageData = [
     {
         id: '12',
         prompt: 'یک زن جوان به صورت چهارزانو روی مبل خود نشسته است. او به آرامی گیتار می‌نوازد. رنگ‌ها و اشکال فرار می‌کنند.',
-        image: '/admin-panel/img/others/gallery/img-12.webp',
+        image: '/img/others/gallery/img-12.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -305,7 +305,7 @@ export const imageData = [
     {
         id: '13',
         prompt: 'بهترین ژست',
-        image: '/admin-panel/img/others/gallery/img-13.webp',
+        image: '/img/others/gallery/img-13.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -313,7 +313,7 @@ export const imageData = [
     {
         id: '14',
         prompt: 'هیولای فوتلوکر',
-        image: '/admin-panel/img/others/gallery/img-14.webp',
+        image: '/img/others/gallery/img-14.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -321,7 +321,7 @@ export const imageData = [
     {
         id: '15',
         prompt: 'چاه حفر شده از A تا Z (تن سرد) (ساعت طلایی)',
-        image: '/admin-panel/img/others/gallery/img-15.webp',
+        image: '/img/others/gallery/img-15.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -329,7 +329,7 @@ export const imageData = [
     {
         id: '16',
         prompt: 'برای من تصاویری برای تم تولد شخصی به نام فانی ایجاد کنید و بنابراین تولد در ماه ژوئن است!!',
-        image: '/admin-panel/img/others/gallery/img-16.webp',
+        image: '/img/others/gallery/img-16.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -337,7 +337,7 @@ export const imageData = [
     {
         id: '17',
         prompt: 'ساحل',
-        image: '/admin-panel/img/others/gallery/img-17.webp',
+        image: '/img/others/gallery/img-17.webp',
         ratio: '4:7',
         size: '768 x 1344 px',
         like: 0,
@@ -345,7 +345,7 @@ export const imageData = [
     {
         id: '18',
         prompt: 'یک شیر آب (ماشین اسلات)، که در داخل آن کره‌هایی با نوشته‌های رون قرار دارد. در پس‌زمینه شخصیت‌های مارول هستند',
-        image: '/admin-panel/img/others/gallery/img-18.webp',
+        image: '/img/others/gallery/img-18.webp',
         ratio: '4:7',
         size: '768 x 1344 px',
         like: 0,
@@ -353,7 +353,7 @@ export const imageData = [
     {
         id: '19',
         prompt: 'کلبه نیپای دنج در ساحل',
-        image: '/admin-panel/img/others/gallery/img-19.webp',
+        image: '/img/others/gallery/img-19.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -361,7 +361,7 @@ export const imageData = [
     {
         id: '20',
         prompt: 'تصاویر جانبی',
-        image: '/admin-panel/img/others/gallery/img-20.webp',
+        image: '/img/others/gallery/img-20.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -369,7 +369,7 @@ export const imageData = [
     {
         id: '21',
         prompt: 'یک یورکی کاملاً سیاه با یک گربه سیاه و سفید هر دو در هوا روی یک بادبادک (نور خورشید)',
-        image: '/admin-panel/img/others/gallery/img-21.webp',
+        image: '/img/others/gallery/img-21.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -377,7 +377,7 @@ export const imageData = [
     {
         id: '22',
         prompt: 'آواتار گیت‌هاب برای یک برنامه‌نویس (رنگ‌های پاستلی) (استودیو)',
-        image: '/admin-panel/img/others/gallery/img-22.webp',
+        image: '/img/others/gallery/img-22.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -385,7 +385,7 @@ export const imageData = [
     {
         id: '23',
         prompt: 'PhD (آسیب دائمی سر) (رنگ‌های زنده) (استودیو) (نمای نزدیک)',
-        image: '/admin-panel/img/others/gallery/img-23.webp',
+        image: '/img/others/gallery/img-23.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -393,7 +393,7 @@ export const imageData = [
     {
         id: '24',
         prompt: 'عکسی از یک اژدها که پس از یک نبرد سخت زخمی شده و سوراخ‌هایی در بال‌هایش دارد و آتش و دود از زخم‌هایش بیرون می‌آید',
-        image: '/admin-panel/img/others/gallery/img-24.webp',
+        image: '/img/others/gallery/img-24.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -401,7 +401,7 @@ export const imageData = [
     {
         id: '25',
         prompt: 'برای من یک جعبه غلات با عنوان "Sugar Cloud Crunch" بسازید',
-        image: '/admin-panel/img/others/gallery/img-25.webp',
+        image: '/img/others/gallery/img-25.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -409,7 +409,7 @@ export const imageData = [
     {
         id: '26',
         prompt: 'یک روباه با هودی قرمز و هدفون سیاه، تم نئون قرمز و پس‌زمینه سیاه',
-        image: '/admin-panel/img/others/gallery/img-26.webp',
+        image: '/img/others/gallery/img-26.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -417,7 +417,7 @@ export const imageData = [
     {
         id: '27',
         prompt: 'یک تصویر پوستر با رنگ غالب آبی روشن و رنگ ثانویه قهوه‌ای روشن بسازید',
-        image: '/admin-panel/img/others/gallery/img-27.webp',
+        image: '/img/others/gallery/img-27.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -425,7 +425,7 @@ export const imageData = [
     {
         id: '28',
         prompt: 'خرگوش بامزه‌ای که کت پوشیده و هویج می‌خورد، سبک سه‌بعدی، رندر',
-        image: '/admin-panel/img/others/gallery/img-28.webp',
+        image: '/img/others/gallery/img-28.webp',
         ratio: '4:7',
         size: '768 x 1344 px',
         like: 0,
@@ -433,7 +433,7 @@ export const imageData = [
     {
         id: '29',
         prompt: 'یک گرگ انسان‌نما که هودی بنفش پوشیده و هدفون دارد و یک کنترلر بازی در دست دارد (نور پس‌زمینه)',
-        image: '/admin-panel/img/others/gallery/img-29.webp',
+        image: '/img/others/gallery/img-29.webp',
         ratio: '4:7',
         size: '768 x 1344 px',
         like: 0,
@@ -441,7 +441,7 @@ export const imageData = [
     {
         id: '30',
         prompt: 'تم جلد کتاب کمیک هنر پالپ دهه 1930: گودزیلا صحبت می‌کند!! (در حباب دیالوگ کمیک نشان داده شود) (تن گرم) (دراماتیک) (زاویه باز)',
-        image: '/admin-panel/img/others/gallery/img-30.webp',
+        image: '/img/others/gallery/img-30.webp',
         ratio: '4:7',
         size: '768 x 1344 px',
         like: 0,
@@ -449,7 +449,7 @@ export const imageData = [
     {
         id: '31',
         prompt: 'کانورس صورتی',
-        image: '/admin-panel/img/others/gallery/img-31.webp',
+        image: '/img/others/gallery/img-31.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -457,7 +457,7 @@ export const imageData = [
     {
         id: '32',
         prompt: 'پسران انیمه',
-        image: '/admin-panel/img/others/gallery/img-32.webp',
+        image: '/img/others/gallery/img-32.webp',
         ratio: '4:7',
         size: '768 x 1344 px',
         like: 0,
@@ -465,7 +465,7 @@ export const imageData = [
     {
         id: '33',
         prompt: 'هلو کیتی و یک گوریل',
-        image: '/admin-panel/img/others/gallery/img-33.webp',
+        image: '/img/others/gallery/img-33.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -473,7 +473,7 @@ export const imageData = [
     {
         id: '34',
         prompt: 'درختان',
-        image: '/admin-panel/img/others/gallery/img-34.webp',
+        image: '/img/others/gallery/img-34.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -481,7 +481,7 @@ export const imageData = [
     {
         id: '35',
         prompt: 'موج ژاپنی',
-        image: '/admin-panel/img/others/gallery/img-35.webp',
+        image: '/img/others/gallery/img-35.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -489,7 +489,7 @@ export const imageData = [
     {
         id: '36',
         prompt: 'پاندایی که عاشق می‌شود',
-        image: '/admin-panel/img/others/gallery/img-36.webp',
+        image: '/img/others/gallery/img-36.webp',
         ratio: '1:1',
         size: '1024 x 1024 px',
         like: 0,
@@ -501,7 +501,7 @@ export const generatedImageData = [
         {
             id: '1',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-1-1.webp',
+            image: '/img/others/gallery/generated/img-1-1.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -509,7 +509,7 @@ export const generatedImageData = [
         {
             id: '2',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-1-2.webp',
+            image: '/img/others/gallery/generated/img-1-2.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -517,7 +517,7 @@ export const generatedImageData = [
         {
             id: '3',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-1-3.webp',
+            image: '/img/others/gallery/generated/img-1-3.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -525,7 +525,7 @@ export const generatedImageData = [
         {
             id: '4',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-1-4.webp',
+            image: '/img/others/gallery/generated/img-1-4.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -535,7 +535,7 @@ export const generatedImageData = [
         {
             id: '1',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-2-1.webp',
+            image: '/img/others/gallery/generated/img-2-1.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -543,7 +543,7 @@ export const generatedImageData = [
         {
             id: '2',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-2-2.webp',
+            image: '/img/others/gallery/generated/img-2-2.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -551,7 +551,7 @@ export const generatedImageData = [
         {
             id: '3',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-2-3.webp',
+            image: '/img/others/gallery/generated/img-2-3.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -559,7 +559,7 @@ export const generatedImageData = [
         {
             id: '4',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-2-4.webp',
+            image: '/img/others/gallery/generated/img-2-4.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -569,7 +569,7 @@ export const generatedImageData = [
         {
             id: '1',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-3-1.webp',
+            image: '/img/others/gallery/generated/img-3-1.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -577,7 +577,7 @@ export const generatedImageData = [
         {
             id: '2',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-3-2.webp',
+            image: '/img/others/gallery/generated/img-3-2.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -585,7 +585,7 @@ export const generatedImageData = [
         {
             id: '3',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-3-3.webp',
+            image: '/img/others/gallery/generated/img-3-3.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -593,7 +593,7 @@ export const generatedImageData = [
         {
             id: '4',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-3-4.webp',
+            image: '/img/others/gallery/generated/img-3-4.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -603,7 +603,7 @@ export const generatedImageData = [
         {
             id: '1',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-4-1.webp',
+            image: '/img/others/gallery/generated/img-4-1.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -611,7 +611,7 @@ export const generatedImageData = [
         {
             id: '2',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-4-2.webp',
+            image: '/img/others/gallery/generated/img-4-2.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -619,7 +619,7 @@ export const generatedImageData = [
         {
             id: '3',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-4-3.webp',
+            image: '/img/others/gallery/generated/img-4-3.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -627,7 +627,7 @@ export const generatedImageData = [
         {
             id: '4',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-4-4.webp',
+            image: '/img/others/gallery/generated/img-4-4.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -637,7 +637,7 @@ export const generatedImageData = [
         {
             id: '1',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-5-1.webp',
+            image: '/img/others/gallery/generated/img-5-1.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -645,7 +645,7 @@ export const generatedImageData = [
         {
             id: '2',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-5-2.webp',
+            image: '/img/others/gallery/generated/img-5-2.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -653,7 +653,7 @@ export const generatedImageData = [
         {
             id: '3',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-5-3.webp',
+            image: '/img/others/gallery/generated/img-5-3.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,
@@ -661,7 +661,7 @@ export const generatedImageData = [
         {
             id: '4',
             prompt: '',
-            image: '/admin-panel/img/others/gallery/generated/img-5-4.webp',
+            image: '/img/others/gallery/generated/img-5-4.webp',
             ratio: '1:1',
             size: '1024 x 1024 px',
             like: 0,

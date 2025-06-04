@@ -3,7 +3,7 @@ export const chatList = [
         id: '1',
         name: 'شانون بیکر',
         userId: '4',
-        avatar: '/admin-panel/img/avatars/thumb-4.jpg',
+        avatar: '/img/avatars/thumb-4.jpg',
         unread: 3,
         time: 1738384790,
         lastConversation: 'حتما انجام می‌دم. ممنون!',
@@ -13,7 +13,7 @@ export const chatList = [
         id: '2',
         name: 'جسیکا ولز',
         userId: '8',
-        avatar: '/admin-panel/img/avatars/thumb-8.jpg',
+        avatar: '/img/avatars/thumb-8.jpg',
         unread: 3,
         time: 1738334390,
         lastConversation: 'عالیه. یه مقداری خوراکی و نوشیدنی هم برمیدارم.',
@@ -23,7 +23,7 @@ export const chatList = [
         id: '3',
         name: 'آرلین پیرس',
         userId: '6',
-        avatar: '/admin-panel/img/avatars/thumb-6.jpg',
+        avatar: '/img/avatars/thumb-6.jpg',
         unread: 0,
         time: 1738327790,
         lastConversation: 'باشه، ممنون 🥰',
@@ -33,7 +33,7 @@ export const chatList = [
         id: '4',
         name: 'مکس الکساندر',
         userId: '3',
-        avatar: '/admin-panel/img/avatars/thumb-3.jpg',
+        avatar: '/img/avatars/thumb-3.jpg',
         unread: 0,
         time: 1738321190,
         lastConversation: 'خیلی دوست دارم! بیایید به زودی برنامه‌ریزی کنیم.',
@@ -43,7 +43,7 @@ export const chatList = [
         id: '5',
         name: 'جرمایا مینسک',
         userId: '2',
-        avatar: '/admin-panel/img/avatars/thumb-2.jpg',
+        avatar: '/img/avatars/thumb-2.jpg',
         unread: 0,
         time: 1738367990,
         lastConversation: '😀 مشکلی نیست. برای تماس‌ات آرزوی موفقیت می‌کنم!',
@@ -53,7 +53,7 @@ export const chatList = [
         id: '6',
         name: 'کاملیا سیمونز',
         userId: '9',
-        avatar: '/admin-panel/img/avatars/thumb-9.jpg',
+        avatar: '/img/avatars/thumb-9.jpg',
         unread: 0,
         time: 1738351190,
         lastConversation: 'درسته! از حالا به بعد با کبوترها بیشتر دقت می‌کنم.',
@@ -63,7 +63,7 @@ export const chatList = [
         id: '7',
         name: 'تیم آماده‌سازی ارائه',
         groupId: '16',
-        avatar: '/admin-panel/img/others/img-19.jpg',
+        avatar: '/img/others/img-19.jpg',
         unread: 0,
         time: 1738351190,
         lastConversation: 'درسته! از حالا به بعد با کبوترها بیشتر دقت می‌کنم.',
@@ -73,7 +73,7 @@ export const chatList = [
         id: '8',
         name: 'دسته نهار',
         groupId: '17',
-        avatar: '/admin-panel/img/others/img-18.jpg',
+        avatar: '/img/others/img-18.jpg',
         unread: 0,
         time: 1738351190,
         lastConversation: 'درسته! از حالا به بعد با کبوترها بیشتر دقت می‌کنم.',
@@ -83,7 +83,7 @@ export const chatList = [
         id: '9',
         name: 'گروه کمپینگ',
         groupId: '18',
-        avatar: '/admin-panel/img/others/img-17.jpg',
+        avatar: '/img/others/img-17.jpg',
         unread: 0,
         time: 1738351190,
         lastConversation: 'درسته! از حالا به بعد با کبوترها بیشتر دقت می‌کنم.',
@@ -101,7 +101,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'آنجلینا گوتلی',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `سلام، می‌تونم چیزی ازت بپرسم؟`,
                 timestamp: 1723430400,
@@ -113,7 +113,7 @@ export const conversationList = [
                 sender: {
                     id: '4',
                     name: 'شنون بیکر',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-4.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-4.jpg',
                 },
                 content: `حتما، چی شده؟`,
                 timestamp: 1723430400,
@@ -125,7 +125,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'آنجلینا گوتلی',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `دارم به درخواست کار جدید فکر می‌کنم، ولی مطمئن نیستم که انتخاب درستی باشه.`,
                 timestamp: 1723430400,
@@ -137,7 +137,7 @@ export const conversationList = [
                 sender: {
                     id: '4',
                     name: 'شنون بیکر',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-4.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-4.jpg',
                 },
                 content: `چی باعث شده که دودل باشی؟`,
                 timestamp: 1723430400,
@@ -149,7 +149,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'آنجلینا گوتلی',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `شرکت بزرگتره و نقش سخت‌تری هم داره. نگرانم که شاید زیادی سنگین باشه.`,
                 timestamp: 1723430400,
@@ -161,7 +161,7 @@ export const conversationList = [
                 sender: {
                     id: '4',
                     name: 'شنون بیکر',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-4.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-4.jpg',
                 },
                 content: `فکر می‌کنم باید بری سراغش. تو توانایی داری و به نظر میاد فرصت خیلی خوبی برای پیشرفت باشه.`,
                 timestamp: 1723430400,
@@ -173,7 +173,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'آنجلینا گوتلی',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `ممنون، مارک. به این تشویق نیاز داشتم. امشب شروع به تکمیل درخواستم می‌کنم.`,
                 timestamp: 1723430400,
@@ -185,7 +185,7 @@ export const conversationList = [
                 sender: {
                     id: '4',
                     name: 'شنون بیکر',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-4.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-4.jpg',
                 },
                 content: `هر زمان! اگه برای رزومه یا نامه درخواستت کمکی خواستی، بگو.`,
                 timestamp: 1723430400,
@@ -197,7 +197,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'آنجلینا گوتلی',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: 'حتما. ممنونم!',
                 timestamp: 1723430400,
@@ -214,7 +214,7 @@ export const conversationList = [
                 sender: {
                     id: '8',
                     name: 'Jessica Wells',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-8.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-8.jpg',
                 },
                 content: `Hey, are you free this weekend?`,
                 timestamp: 1723430400,
@@ -226,7 +226,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Yeah, I think so. Why, what's up?`,
                 timestamp: 1723430400,
@@ -238,7 +238,7 @@ export const conversationList = [
                 sender: {
                     id: '8',
                     name: 'Jessica Wells',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-8.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-8.jpg',
                 },
                 content: `I was thinking of going hiking. The weather's supposed to be great. Interested?`,
                 timestamp: 1723430400,
@@ -250,7 +250,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Sounds fun! Where are you planning to go?`,
                 timestamp: 1723430400,
@@ -262,7 +262,7 @@ export const conversationList = [
                 sender: {
                     id: '8',
                     name: 'Jessica Wells',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-8.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-8.jpg',
                 },
                 content: `I was thinking of heading to Blue Mountain. It's got some nice trails.`,
                 timestamp: 1723430400,
@@ -274,7 +274,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Cool, count me in! What time were you thinking of leaving?`,
                 timestamp: 1723430400,
@@ -286,7 +286,7 @@ export const conversationList = [
                 sender: {
                     id: '8',
                     name: 'Jessica Wells',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-8.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-8.jpg',
                 },
                 content: `How about 8 AM? That way we can avoid the midday heat.`,
                 timestamp: 1723430400,
@@ -298,7 +298,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Perfect. I'll pack some snacks and drinks.`,
                 timestamp: 1723430400,
@@ -315,7 +315,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Hey, did you get a chance to review the client feedback?`,
                 timestamp: 1723430400,
@@ -327,7 +327,7 @@ export const conversationList = [
                 sender: {
                     id: '6',
                     name: 'Arlene Pierce',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-6.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-6.jpg',
                 },
                 content: `Yeah, I looked through it this morning. We need to make a few adjustments to the design.`,
                 timestamp: 1723430400,
@@ -339,7 +339,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Agreed. They weren't too happy with the color scheme. Do you have any suggestions?`,
                 timestamp: 1723430400,
@@ -351,7 +351,7 @@ export const conversationList = [
                 sender: {
                     id: '6',
                     name: 'Arlene Pierce',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-6.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-6.jpg',
                 },
                 content: `Maybe we could try a more neutral palette. Something less bold.`,
                 timestamp: 1723430400,
@@ -363,7 +363,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `That makes sense. I'll put together a few options and send them over for review`,
                 timestamp: 1723430400,
@@ -375,7 +375,7 @@ export const conversationList = [
                 sender: {
                     id: '6',
                     name: 'Arlene Pierce',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-6.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-6.jpg',
                 },
                 content: `Sounds good. Let's aim to finalize it by tomorrow afternoon.`,
                 timestamp: 1723430400,
@@ -387,7 +387,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Okay, Thanks 🥰`,
                 timestamp: 1723430400,
@@ -404,7 +404,7 @@ export const conversationList = [
                 sender: {
                     id: '3',
                     name: 'Max Alexander',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-3.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-3.jpg',
                 },
                 content: `Hey, long time no see! How have you been?`,
                 timestamp: 1723430400,
@@ -416,7 +416,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Hi! I've been good, just busy with work. How about you?`,
                 timestamp: 1723430400,
@@ -428,7 +428,7 @@ export const conversationList = [
                 sender: {
                     id: '3',
                     name: 'Max Alexander',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-3.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-3.jpg',
                 },
                 content: `Same here. Lots of projects lately. Have you had any time for yourself?`,
                 timestamp: 1723430400,
@@ -440,7 +440,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Not really, but I did manage to catch a new movie last weekend. It was a nice break.`,
                 timestamp: 1723430400,
@@ -452,7 +452,7 @@ export const conversationList = [
                 sender: {
                     id: '3',
                     name: 'Max Alexander',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-3.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-3.jpg',
                 },
                 content: `Nice! Which one did you watch?`,
                 timestamp: 1723430400,
@@ -464,7 +464,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `"The Quantum Realm". It was amazing! You should check it out if you get a chance.`,
                 timestamp: 1723430400,
@@ -476,7 +476,7 @@ export const conversationList = [
                 sender: {
                     id: '3',
                     name: 'Max Alexander',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-3.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-3.jpg',
                 },
                 content: `I'll add it to my list. Maybe we can go see a movie together sometime.`,
                 timestamp: 1723430400,
@@ -488,7 +488,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `I'd love that! Let's plan something soon.`,
                 timestamp: 1723430400,
@@ -505,7 +505,7 @@ export const conversationList = [
                 sender: {
                     id: '2',
                     name: 'Jeremiah Minsk',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-2.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-2.jpg',
                 },
                 content: `Hey, are you having issues with the network?`,
                 timestamp: 1723430400,
@@ -517,7 +517,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Yeah, it's been spotty all morning. Super annoying.`,
                 timestamp: 1723430400,
@@ -529,7 +529,7 @@ export const conversationList = [
                 sender: {
                     id: '2',
                     name: 'Jeremiah Minsk',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-2.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-2.jpg',
                 },
                 content: `Ugh, same here. I have a call in 10 minutes and I can't get a stable connection.`,
                 timestamp: 1723430400,
@@ -541,7 +541,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Have you tried restarting your router?`,
                 timestamp: 1723430400,
@@ -553,7 +553,7 @@ export const conversationList = [
                 sender: {
                     id: '2',
                     name: 'Jeremiah Minsk',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-2.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-2.jpg',
                 },
                 content: `I did, but it didn't help. Might be an ISP issue.`,
                 timestamp: 1723430400,
@@ -565,7 +565,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Bummer. Hope they fix it soon. In the meantime, maybe try using your phone's hotspot?`,
                 timestamp: 1723430400,
@@ -577,7 +577,7 @@ export const conversationList = [
                 sender: {
                     id: '2',
                     name: 'Jeremiah Minsk',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-2.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-2.jpg',
                 },
                 content: `Good idea. I'll give that a shot. Thanks!`,
                 timestamp: 1723430400,
@@ -589,7 +589,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `😀 No problem. Good luck with your call!`,
                 timestamp: 1723430400,
@@ -606,7 +606,7 @@ export const conversationList = [
                 sender: {
                     id: '9',
                     name: 'Camila Simmmons',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-9.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-9.jpg',
                 },
                 content: `You won't believe what happened to me today.`,
                 timestamp: 1723430400,
@@ -618,7 +618,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `What? Tell me!`,
                 timestamp: 1723430400,
@@ -630,7 +630,7 @@ export const conversationList = [
                 sender: {
                     id: '9',
                     name: 'Camila Simmmons',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-9.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-9.jpg',
                 },
                 content: `I was walking to work and a pigeon flew right into me!`,
                 timestamp: 1723430400,
@@ -642,7 +642,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `No way! Did it hurt?`,
                 timestamp: 1723430400,
@@ -654,7 +654,7 @@ export const conversationList = [
                 sender: {
                     id: '9',
                     name: 'Camila Simmmons',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-9.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-9.jpg',
                 },
                 content: `Not really, but it did leave a mess on my shirt. I must have looked ridiculous.`,
                 timestamp: 1723430400,
@@ -666,7 +666,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Eww, that's hilarious! Did anyone see?`,
                 timestamp: 1723430400,
@@ -678,7 +678,7 @@ export const conversationList = [
                 sender: {
                     id: '9',
                     name: 'Camila Simmmons',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-9.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-9.jpg',
                 },
                 content: `Unfortunately, yes. A whole group of tourists. They were laughing too.`,
                 timestamp: 1723430400,
@@ -690,7 +690,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Well, at least you gave them a good story to tell!`,
                 timestamp: 1723430400,
@@ -702,7 +702,7 @@ export const conversationList = [
                 sender: {
                     id: '9',
                     name: 'Camila Simmmons',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-9.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-9.jpg',
                 },
                 content: `True! I'll be more careful around pigeons from now on.`,
                 timestamp: 1723430400,
@@ -719,7 +719,7 @@ export const conversationList = [
                 sender: {
                     id: '10',
                     name: 'Earl Miles',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-10.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-10.jpg',
                 },
                 content: `Hey team, are we all set for the presentation tomorrow?`,
                 timestamp: 1723430400,
@@ -731,7 +731,7 @@ export const conversationList = [
                 sender: {
                     id: '11',
                     name: 'Steve Sutton',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-11.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-11.jpg',
                 },
                 content: `I'm still tweaking the slides a bit. Should be done in an hour.`,
                 timestamp: 1723430400,
@@ -743,7 +743,7 @@ export const conversationList = [
                 sender: {
                     id: '12',
                     name: 'Miriam Herrera',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-12.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-12.jpg',
                 },
                 content: `I finished the financial analysis section. Should I email it to everyone?`,
                 timestamp: 1723430400,
@@ -755,7 +755,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `I'm ready with my part. Just let me know if you need any changes.`,
                 timestamp: 1723430400,
@@ -767,7 +767,7 @@ export const conversationList = [
                 sender: {
                     id: '10',
                     name: 'Earl Miles',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-10.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-10.jpg',
                 },
                 content: `Yes, please do. Let's all review it and meet again at 5 PM to finalize.`,
                 timestamp: 1723430400,
@@ -784,7 +784,7 @@ export const conversationList = [
                 sender: {
                     id: '13',
                     name: 'Cassandra Murray',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-13.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-13.jpg',
                 },
                 content: `Who's up for a team lunch tomorrow?`,
                 timestamp: 1723430400,
@@ -796,7 +796,7 @@ export const conversationList = [
                 sender: {
                     id: '14',
                     name: 'Alvin Moreno',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-14.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-14.jpg',
                 },
                 content: `I'm in! Where are we thinking?`,
                 timestamp: 1723430400,
@@ -808,7 +808,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Count me in too. How about that new Italian place downtown?`,
                 timestamp: 1723430400,
@@ -820,7 +820,7 @@ export const conversationList = [
                 sender: {
                     id: '13',
                     name: 'Cassandra Murray',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-13.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-13.jpg',
                 },
                 content: `Sounds perfect! I'll make a reservation for 1 PM.`,
                 timestamp: 1723430400,
@@ -832,7 +832,7 @@ export const conversationList = [
                 sender: {
                     id: '14',
                     name: 'Alvin Moreno',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-14.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-14.jpg',
                 },
                 content: `Great! See you all there.`,
                 timestamp: 1723430400,
@@ -849,7 +849,7 @@ export const conversationList = [
                 sender: {
                     id: '15',
                     name: 'Jackie Soto',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-15.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-15.jpg',
                 },
                 content: `Guys, our camping trip is this weekend. Are we ready?`,
                 timestamp: 1723430400,
@@ -861,7 +861,7 @@ export const conversationList = [
                 sender: {
                     id: '8',
                     name: 'Jessica Wells',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-8.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-8.jpg',
                 },
                 content: `I still need to pack, but I have all the gear.`,
                 timestamp: 1723430400,
@@ -873,7 +873,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `I'm almost ready. Just need to pick up some snacks and drinks.`,
                 timestamp: 1723430400,
@@ -885,7 +885,7 @@ export const conversationList = [
                 sender: {
                     id: '15',
                     name: 'Jackie Soto',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-15.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-15.jpg',
                 },
                 content: `Awesome! Let's meet at my place at 8 AM on Saturday.`,
                 timestamp: 1723430400,
@@ -897,7 +897,7 @@ export const conversationList = [
                 sender: {
                     id: '8',
                     name: 'Jessica Wells',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-8.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-8.jpg',
                 },
                 content: `Sounds good to me. Can't wait!`,
                 timestamp: 1723430400,
@@ -909,7 +909,7 @@ export const conversationList = [
                 sender: {
                     id: '1',
                     name: 'Angelina Gotelli',
-                    avatarImageUrl: '/admin-panel/img/avatars/thumb-1.jpg',
+                    avatarImageUrl: '/img/avatars/thumb-1.jpg',
                 },
                 content: `Looking forward to it! See you all on Saturday.`,
                 timestamp: 1723430400,
@@ -925,27 +925,27 @@ export const mediaData = {
         {
             id: '7020d33d-e2d3-416a-969b-dd7e68f0e2cf',
             name: 'Snövalla',
-            url: '/admin-panel/img/products/product-2.jpg',
+            url: '/img/products/product-2.jpg',
         },
         {
             id: 'c20f164c-4848-4162-aa6f-0889e15a4f12',
             name: 'Spiky Ring',
-            url: '/admin-panel/img/products/product-9.jpg',
+            url: '/img/products/product-9.jpg',
         },
         {
             id: 'abf6c2be-3b6d-4444-9498-95a82798fcf5',
             name: 'Il Limone',
-            url: '/admin-panel/img/products/product-12.jpg',
+            url: '/img/products/product-12.jpg',
         },
         {
             id: '1c2502f2-326e-4bdb-b167-5e642921d2f3',
             name: 'Maneki Neko Poster',
-            url: '/admin-panel/img/products/product-7.jpg',
+            url: '/img/products/product-7.jpg',
         },
         {
             id: '5540ca41-b188-442b-8d2f-b4ee183b9f77',
             name: 'Gränvika',
-            url: '/admin-panel/img/products/product-11.jpg',
+            url: '/img/products/product-11.jpg',
         },
     ],
     files: [
@@ -981,7 +981,7 @@ export const mediaData = {
     links: [
         {
             id: '05604581-255a-4579-aee4-2a8e6cd9d0f5',
-            favicon: '/admin-panel/img/thumbs/github.png',
+            favicon: '/img/thumbs/github.png',
             title: 'ThemeNate/Elstar-lite',
             description:
                 'Elstar is a React admin template with developer experience friendly & highly scalable, it comes with set of UI components meticulously crafted with Tailwind CSS, it fulfilled most of the use case to create modern and beautiful UI and application',
@@ -989,7 +989,7 @@ export const mediaData = {
         },
         {
             id: '84fe8e78-8451-434f-b2d8-8eff16d8cc0f',
-            favicon: '/admin-panel/img/thumbs/bootstrap.png',
+            favicon: '/img/thumbs/bootstrap.png',
             title: 'Bootstrap · The most popular HTML, CSS, and JS library in the world.',
             description:
                 'Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.',
@@ -997,7 +997,7 @@ export const mediaData = {
         },
         {
             id: '4df30543-36cd-47fe-97fe-790dcb5f16fe',
-            favicon: '/admin-panel/img/thumbs/tailwind.png',
+            favicon: '/img/thumbs/tailwind.png',
             title: 'Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.',
             description:
                 'Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.',
@@ -1010,30 +1010,30 @@ export const groupsData = [
     {
         id: '16',
         name: 'Team Presentation Prep',
-        img: '/admin-panel/img/others/img-19.jpg',
+        img: '/img/others/img-19.jpg',
         members: [
             {
                 id: '1',
                 name: 'You',
-                img: '/admin-panel/img/avatars/thumb-1.jpg',
+                img: '/img/avatars/thumb-1.jpg',
                 email: 'eileen_h@hotmail.com',
             },
             {
                 id: '10',
                 name: 'Earl Miles',
-                img: '/admin-panel/img/avatars/thumb-10.jpg',
+                img: '/img/avatars/thumb-10.jpg',
                 email: 'brittany1134@gmail.com',
             },
             {
                 id: '11',
                 name: 'Steve Sutton',
-                img: '/admin-panel/img/avatars/thumb-11.jpg',
+                img: '/img/avatars/thumb-11.jpg',
                 email: 'handsome-obrien@hotmail.com',
             },
             {
                 id: '12',
                 name: 'Miriam Herrera',
-                img: '/admin-panel/img/avatars/thumb-12.jpg',
+                img: '/img/avatars/thumb-12.jpg',
                 email: 'maymaymay12@infotech.io',
             },
         ],
@@ -1041,24 +1041,24 @@ export const groupsData = [
     {
         id: '17',
         name: 'Lunch Squad',
-        img: '/admin-panel/img/others/img-18.jpg',
+        img: '/img/others/img-18.jpg',
         members: [
             {
                 id: '1',
                 name: 'You',
-                img: '/admin-panel/img/avatars/thumb-1.jpg',
+                img: '/img/avatars/thumb-1.jpg',
                 email: 'eileen_h@hotmail.com',
             },
             {
                 id: '13',
                 name: 'Cassandra Murray',
-                img: '/admin-panel/img/avatars/thumb-13.jpg',
+                img: '/img/avatars/thumb-13.jpg',
                 email: 'lee_wheeler@infotech.io',
             },
             {
                 id: '14',
                 name: 'Alvin Moreno',
-                img: '/admin-panel/img/avatars/thumb-14.jpg',
+                img: '/img/avatars/thumb-14.jpg',
                 email: 'gailby0116@infotech.io',
             },
         ],
@@ -1066,24 +1066,24 @@ export const groupsData = [
     {
         id: '18',
         name: 'Camping Crew',
-        img: '/admin-panel/img/others/img-17.jpg',
+        img: '/img/others/img-17.jpg',
         members: [
             {
                 id: '1',
                 name: 'You',
-                img: '/admin-panel/img/avatars/thumb-1.jpg',
+                img: '/img/avatars/thumb-1.jpg',
                 email: 'eileen_h@hotmail.com',
             },
             {
                 id: '15',
                 name: 'Jackie Soto',
-                img: '/admin-panel/img/avatars/thumb-15.jpg',
+                img: '/img/avatars/thumb-15.jpg',
                 email: 'ella_robinson@infotech.io',
             },
             {
                 id: '8',
                 name: 'Jessica Wells',
-                img: '/admin-panel/img/avatars/thumb-8.jpg',
+                img: '/img/avatars/thumb-8.jpg',
                 email: 'iamfred@imaze.infotech.io',
             },
         ],

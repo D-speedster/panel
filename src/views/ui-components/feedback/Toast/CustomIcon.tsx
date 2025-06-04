@@ -18,7 +18,7 @@ const CustomIcon = () => {
         <Notification
             title="امیلی گیل"
             customIcon={
-                <Avatar shape="circle" src="/admin-panel/img/avatars/thumb-1.jpg" />
+                <Avatar shape="circle" src="/img/avatars/thumb-1.jpg" />
             }
         >
            برای شما درخواست دوستی ارسال کرد.

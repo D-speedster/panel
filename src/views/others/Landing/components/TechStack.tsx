@@ -117,7 +117,7 @@ const TechStack = () => {
                                     <div className="w-16 h-16 flex items-center justify-center rounded-xl bg-gray-100 dark:bg-gray-600 group-hover:border-primary">
                                         <img
                                             className="max-h-8"
-                                            src={`/admin-panel/img/landing/tech/${stack.id}.png`}
+                                            src={`/img/landing/tech/${stack.id}.png`}
                                             alt={stack.title}
                                         />
                                     </div>

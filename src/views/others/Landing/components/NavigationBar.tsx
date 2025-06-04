@@ -85,7 +85,7 @@ const Navigation = ({ toggleMode, mode }: NavigationProps) => {
                 <a href="/">
                     {mode === MODE_LIGHT && (
                         <img
-                            src="/admin-panel/img/logo/logo-light-full.png"
+                            src="/img/logo/logo-light-full.png"
                             width={120}
                             height={40}
                             alt="logo"
@@ -93,7 +93,7 @@ const Navigation = ({ toggleMode, mode }: NavigationProps) => {
                     )}
                     {mode === MODE_DARK && (
                         <img
-                            src="/admin-panel/img/logo/logo-dark-full.png"
+                            src="/img/logo/logo-dark-full.png"
                             width={120}
                             height={40}
                             alt="logo"
@@ -148,7 +148,7 @@ const Navigation = ({ toggleMode, mode }: NavigationProps) => {
                     </button>
                     <div className="border border-gray-200 dark:border-gray-700 rounded-full inline-flex items-center justify-center gap-2 py-1 px-2 bg-white dark:bg-gray-800">
                         <img
-                            src="/admin-panel/img/landing/tech/vite.png"
+                            src="/img/landing/tech/vite.png"
                             alt="ویت"
                             className="w-6 h-6"
                         />

@@ -3,27 +3,27 @@ export const productsData = [
         id: '12',
         name: 'Flörven',
         productCode: '098327NT',
-        img: '/admin-panel/img/products/product-1.jpg',
+        img: '/img/products/product-1.jpg',
         imgList: [
             {
                 id: '12-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-1.jpg',
+                img: '/img/products/product-1.jpg',
             },
             {
                 id: '12-img-1',
                 name: 'image-2',
-                img: '/admin-panel/img/products/product-1-2.jpg',
+                img: '/img/products/product-1-2.jpg',
             },
             {
                 id: '12-img-2',
                 name: 'image-3',
-                img: '/admin-panel/img/products/product-1-3.jpg',
+                img: '/img/products/product-1-3.jpg',
             },
             {
                 id: '12-img-3',
                 name: 'image-4',
-                img: '/admin-panel/img/products/product-1-4.jpg',
+                img: '/img/products/product-1-4.jpg',
             },
         ],
         category: 'chairs',
@@ -46,12 +46,12 @@ export const productsData = [
         id: '13',
         name: 'Snövalla',
         productCode: '098359NT',
-        img: '/admin-panel/img/products/product-2.jpg',
+        img: '/img/products/product-2.jpg',
         imgList: [
             {
                 id: '13-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-2.jpg',
+                img: '/img/products/product-2.jpg',
             },
         ],
         category: 'lamps',
@@ -74,12 +74,12 @@ export const productsData = [
         id: '14',
         name: 'Echoes Necklace',
         productCode: '098383NT',
-        img: '/admin-panel/img/products/product-3.jpg',
+        img: '/img/products/product-3.jpg',
         imgList: [
             {
                 id: '14-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-3.jpg',
+                img: '/img/products/product-3.jpg',
             },
         ],
         category: 'accessories',
@@ -102,12 +102,12 @@ export const productsData = [
         id: '15',
         name: 'Lömnäs',
         productCode: '098342NT',
-        img: '/admin-panel/img/products/product-4.jpg',
+        img: '/img/products/product-4.jpg',
         imgList: [
             {
                 id: '15-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-4.jpg',
+                img: '/img/products/product-4.jpg',
             },
         ],
         category: 'lamps',
@@ -130,12 +130,12 @@ export const productsData = [
         id: '16',
         name: 'Kallaxa',
         productCode: '098371NT',
-        img: '/admin-panel/img/products/product-5.jpg',
+        img: '/img/products/product-5.jpg',
         imgList: [
             {
                 id: '16-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-5.jpg',
+                img: '/img/products/product-5.jpg',
             },
         ],
         category: 'lamps',
@@ -158,12 +158,12 @@ export const productsData = [
         id: '17',
         name: 'Ringed Earring',
         productCode: '098314NT',
-        img: '/admin-panel/img/products/product-6.jpg',
+        img: '/img/products/product-6.jpg',
         imgList: [
             {
                 id: '17-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-6.jpg',
+                img: '/img/products/product-6.jpg',
             },
         ],
         category: 'accessories',
@@ -186,12 +186,12 @@ export const productsData = [
         id: '18',
         name: 'Maneki Neko Poster',
         productCode: '098336NT',
-        img: '/admin-panel/img/products/product-7.jpg',
+        img: '/img/products/product-7.jpg',
         imgList: [
             {
                 id: '18-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-7.jpg',
+                img: '/img/products/product-7.jpg',
             },
         ],
         category: 'art',
@@ -214,12 +214,12 @@ export const productsData = [
         id: '19',
         name: 'Ektöra',
         productCode: '098368NT',
-        img: '/admin-panel/img/products/product-8.jpg',
+        img: '/img/products/product-8.jpg',
         imgList: [
             {
                 id: '19-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-8.jpg',
+                img: '/img/products/product-8.jpg',
             },
         ],
         category: 'chairs',
@@ -242,12 +242,12 @@ export const productsData = [
         id: '20',
         name: 'Spiky Ring',
         productCode: '098392NT',
-        img: '/admin-panel/img/products/product-9.jpg',
+        img: '/img/products/product-9.jpg',
         imgList: [
             {
                 id: '20-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-9.jpg',
+                img: '/img/products/product-9.jpg',
             },
         ],
         category: 'accessories',
@@ -270,12 +270,12 @@ export const productsData = [
         id: '21',
         name: 'Pastel Petals Poster',
         productCode: '098355NT',
-        img: '/admin-panel/img/products/product-10.jpg',
+        img: '/img/products/product-10.jpg',
         imgList: [
             {
                 id: '21-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-10.jpg',
+                img: '/img/products/product-10.jpg',
             },
         ],
         category: 'art',
@@ -298,12 +298,12 @@ export const productsData = [
         id: '22',
         name: 'Gränvika',
         productCode: '098320NT',
-        img: '/admin-panel/img/products/product-11.jpg',
+        img: '/img/products/product-11.jpg',
         imgList: [
             {
                 id: '22-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-11.jpg',
+                img: '/img/products/product-11.jpg',
             },
         ],
         category: 'chairs',
@@ -326,12 +326,12 @@ export const productsData = [
         id: '23',
         name: 'Il Limone',
         productCode: '098377NT',
-        img: '/admin-panel/img/products/product-12.jpg',
+        img: '/img/products/product-12.jpg',
         imgList: [
             {
                 id: '23-img-0',
                 name: 'image-1',
-                img: '/admin-panel/img/products/product-12.jpg',
+                img: '/img/products/product-12.jpg',
             },
         ],
         category: 'art',

@@ -3,7 +3,7 @@ import Input from '@/components/ui/Input'
 import Button from '@/components/ui/Button'
 import { FormItem, Form } from '@/components/ui/Form'
 import PasswordInput from '@/components/shared/PasswordInput'
-import classNames from '@/utils/classNames'
+// import classNames from '@/utils/classNames'
 import { useAuth } from '@/auth'
 import { useForm, Controller } from 'react-hook-form'
 import { zodResolver } from '@hookform/resolvers/zod'
@@ -53,7 +53,8 @@ const SignInForm = (props: SignInFormProps) => {
 
     const onSignIn = async (values: SignInFormSchema) => {
         const { email, password } = values
-
+        console.log('test')
+        console.log(email, password)
         if (!disableSubmit) {
             setSubmitting(true)
 
@@ -92,10 +93,10 @@ const SignInForm = (props: SignInFormProps) => {
                     label="رمز عبور"
                     invalid={Boolean(errors.password)}
                     errorMessage={errors.password?.message}
-                    className={classNames(
-                        passwordHint && 'mb-0',
-                        errors.password?.message && 'mb-8',
-                    )}
+                    // className={classNames(
+                    //     passwordHint && 'mb-0',
+                    //     errors.password?.message && 'mb-8',
+                    // )}
                 >
                     <Controller
                         name="password"

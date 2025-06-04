@@ -67,7 +67,7 @@ const HeroContent = ({ mode }: { mode: Mode }) => {
                         {mode === MODE_LIGHT && (
                             <img
                                 className="rounded-2xl lg:rounded-[24px]"
-                                src="/admin-panel/img/landing/hero/hero.png"
+                                src="/img/landing/hero/hero.png"
                                 width={1920}
                                 height={1040}
                                 alt="صفحه اصلی Ecme"
@@ -76,7 +76,7 @@ const HeroContent = ({ mode }: { mode: Mode }) => {
                         {mode === MODE_DARK && (
                             <img
                                 className="rounded-2xl lg:rounded-[24px]"
-                                src="/admin-panel/img/landing/hero/hero-dark.png"
+                                src="/img/landing/hero/hero-dark.png"
                                 width={1920}
                                 height={1040}
                                 alt="صفحه اصلی Ecme"

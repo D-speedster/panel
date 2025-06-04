@@ -45,8 +45,8 @@ const ProfileImage = ({ control }: ProfileImageSectionProps) => {
                                         />
                                     ) : (
                                         <DoubleSidedImage
-                                            src="/admin-panel/img/others/upload.png"
-                                            darkModeSrc="/admin-panel/img/others/upload-dark.png"
+                                            src="/img/others/upload.png"
+                                            darkModeSrc="/img/others/upload-dark.png"
                                             alt="Upload image"
                                         />
                                     )}
