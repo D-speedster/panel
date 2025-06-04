@@ -3,7 +3,7 @@ import {
     NAV_ITEM_TYPE_TITLE,
     NAV_ITEM_TYPE_ITEM,
 } from '@/constants/navigation.constant'
-import { ADMIN, USER } from '@/constants/roles.constant'
+import { ACCOUNTANT, ADMIN, USER } from '@/constants/roles.constant'
 import type { NavigationTree } from '@/@types/navigation'
 
 const dashboardsNavigationConfig: NavigationTree[] = [
@@ -14,7 +14,7 @@ const dashboardsNavigationConfig: NavigationTree[] = [
         translateKey: 'nav.dashboard.dashboard',
         icon: 'dashboard',
         type: NAV_ITEM_TYPE_TITLE,
-        authority: [ADMIN, USER],
+        authority: [ADMIN, USER , ACCOUNTANT],
         meta: {
             horizontalMenu: {
                 layout: 'default',
@@ -28,7 +28,7 @@ const dashboardsNavigationConfig: NavigationTree[] = [
                 translateKey: 'nav.dashboard.ecommerce',
                 icon: 'dashboardEcommerce',
                 type: NAV_ITEM_TYPE_ITEM,
-                authority: [ADMIN, USER],
+                authority: [ADMIN, USER , ACCOUNTANT],
                 subMenu: [],
             },
             {
@@ -38,7 +38,7 @@ const dashboardsNavigationConfig: NavigationTree[] = [
                 translateKey: 'nav.dashboard.project',
                 icon: 'dashboardProject',
                 type: NAV_ITEM_TYPE_ITEM,
-                authority: [ADMIN, USER],
+                authority: [ADMIN, USER , ACCOUNTANT],
                 subMenu: [],
             },
             {
@@ -48,7 +48,7 @@ const dashboardsNavigationConfig: NavigationTree[] = [
                 translateKey: 'nav.dashboard.marketing',
                 icon: 'dashboardMarketing',
                 type: NAV_ITEM_TYPE_ITEM,
-                authority: [ADMIN, USER],
+                authority: [ADMIN, USER , ACCOUNTANT],
                 subMenu: [],
             },
             {
@@ -58,7 +58,7 @@ const dashboardsNavigationConfig: NavigationTree[] = [
                 translateKey: 'nav.dashboard.analytic',
                 icon: 'dashboardAnalytic',
                 type: NAV_ITEM_TYPE_ITEM,
-                authority: [ADMIN, USER],
+                authority: [ADMIN, USER , ACCOUNTANT],
                 subMenu: [],
             },
         ],

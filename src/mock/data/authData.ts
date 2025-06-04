@@ -8,4 +8,13 @@ export const signInUserData = [
         password: '123Qwe',
         accountUserName: 'admin',
     },
+    {
+        id: '22',
+        avatar: '/admin-panel/img/avatars/thumb-1.jpg',
+        userName: 'Amir',
+        email: 'mahdyghajar@yahoo.com',
+        authority: ['accountant'],
+        password: '4444',
+        accountUserName: 'accountant',
+    },
 ]
