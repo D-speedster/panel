@@ -3,7 +3,7 @@ import Input from '@/components/ui/Input'
 import Button from '@/components/ui/Button'
 import { FormItem, Form } from '@/components/ui/Form'
 import PasswordInput from '@/components/shared/PasswordInput'
-// import classNames from '@/utils/classNames'
+import classNames from '@/utils/classNames'
 import { useAuth } from '@/auth'
 import { useForm, Controller } from 'react-hook-form'
 import { zodResolver } from '@hookform/resolvers/zod'
@@ -11,8 +11,6 @@ import { z } from 'zod'
 import type { ZodType } from 'zod'
 import type { CommonProps } from '@/@types/common'
 import type { ReactNode } from 'react'
-
-import axios from 'axios';
 
 interface SignInFormProps extends CommonProps {
     disableSubmit?: boolean
@@ -54,54 +52,20 @@ const SignInForm = (props: SignInFormProps) => {
     const { signIn } = useAuth()
 
     const onSignIn = async (values: SignInFormSchema) => {
-        const { email, password } = values;
-        console.log(email, password);
-
-        const formData = new FormData();
-        formData.append('email', email);
-        formData.append('password', password);
-
-        console.log('FormData entries:');
-        for (let pair of formData.entries()) {
-            console.log(pair[0] + ': ' + pair[1]);
-        }
-
-        async function FetchData() {
-            try {
-                const res = await axios.post('https://api.radif.org/login', formData, {
-                    withCredentials: true ,
-
-                    headers: {
-                        'Accept': 'application/json',
-                        // مهم: نیازی به تنظیم Content-Type نیست، axios خودش boundary را از FormData می‌سازد
-                    }
-                });
-                console.log(res.data);
-                return res.data;
-            } catch (err) {
-                console.error('Error in FetchData:', err);
-                return null;
-            }
-        }
-
-        await FetchData();
-
-        console.log('test');
-        console.log(email, password);
+        const { email, password } = values
 
         if (!disableSubmit) {
-            setSubmitting(true);
+            setSubmitting(true)
 
-            const result = await signIn({ email, password });
+            const result = await signIn({ email, password })
 
             if (result?.status === 'failed') {
-                setMessage?.(result.message);
+                setMessage?.(result.message)
             }
         }
 
-        setSubmitting(false);
-    };
-
+        setSubmitting(false)
+    }
 
     return (
         <div className={className} >
@@ -128,10 +92,10 @@ const SignInForm = (props: SignInFormProps) => {
                     label="رمز عبور"
                     invalid={Boolean(errors.password)}
                     errorMessage={errors.password?.message}
-                // className={classNames(
-                //     passwordHint && 'mb-0',
-                //     errors.password?.message && 'mb-8',
-                // )}
+                    className={classNames(
+                        passwordHint && 'mb-0',
+                        errors.password?.message && 'mb-8',
+                    )}
                 >
                     <Controller
                         name="password"

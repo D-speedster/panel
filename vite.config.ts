@@ -16,9 +16,10 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'http://radif.org',
+        target: 'https://api.radif.org',
         changeOrigin: true,
-        secure: false
+        secure: false,
+        rewrite: (path) => path.replace(/^\/api/, ''),
       }
     }
   },

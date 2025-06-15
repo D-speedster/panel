@@ -9,12 +9,13 @@ import type {
     SignUpResponse,
 } from '@/@types/auth'
 
-export async function apiSignIn(data: SignInCredential) {
-    return ApiService.fetchDataWithAxios<SignInResponse>({
-        url: endpointConfig.signIn,
+export async function apiSignIn(values: SignInCredential) {
+    const response = await ApiService.fetchDataWithAxios({
+        url: '/login',  // مسیر login لاراولت اینجاست
         method: 'post',
-        data,
+        data: values
     })
+    return response.data
 }
 
 export async function apiSignUp(data: SignUpCredential) {

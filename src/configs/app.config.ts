@@ -9,12 +9,12 @@ export type AppConfig = {
 }
 
 const appConfig: AppConfig = {
-    apiPrefix: '/api',
+    apiPrefix: 'https://api.radif.org',
     authenticatedEntryPath: '/dashboards/ecommerce',
     unAuthenticatedEntryPath: '/sign-in',
     locale: 'fa',
     accessTokenPersistStrategy: 'localStorage',
-    enableMock: true,
+    enableMock: false,
     activeNavTranslation: true,
 }
 
